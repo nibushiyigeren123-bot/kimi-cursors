@@ -1,0 +1,14 @@
+{
+  "character": "kimi",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a12d0c-8375-79f0-ace9-afa1b234d5a3\\exec-e1f30eae-162e-4c27-8406-d0c9e1d8b00b.png",
+  "target": "E:\\cladue缓存\\AI全家动态指针_20261012\\characters\\kimi\\poses-v2.png",
+  "sha256": "45134220eaabcd2dca3ea05cc9293e23bff489e25eb4b875a69a670e5ae6095d",
+  "size": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "method": "built-in image_gen",
+  "seed": "not exposed by built-in tool",
+  "original_preserved": true
+}

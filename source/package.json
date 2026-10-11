@@ -1,0 +1,15 @@
+{
+  "repository": "kimi-cursors",
+  "title": "Kimi",
+  "namespace": "KimiCursors",
+  "accent": "#8c95bd",
+  "version": "1.0.0",
+  "default_character": "kimi",
+  "characters": [
+    {
+      "id": "kimi",
+      "display": "Kimi",
+      "reference_page": 5
+    }
+  ]
+}
