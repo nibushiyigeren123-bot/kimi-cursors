@@ -1,0 +1,165 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "duration": 39,
+  "scenes": [
+    {
+      "kind": "intro",
+      "seconds": 3,
+      "caption": "Kimi 动态指针 · 17 状态 × 五档尺寸",
+      "start": 0,
+      "end": 3
+    },
+    {
+      "kind": "states",
+      "character": "kimi",
+      "display": "Kimi",
+      "seconds": 4,
+      "caption": "Kimi · 全部 17 状态；绘制姿态加八相位二维微动",
+      "start": 3,
+      "end": 7
+    },
+    {
+      "kind": "focus",
+      "character": "kimi",
+      "display": "Kimi",
+      "roles": [
+        "Arrow",
+        "Help",
+        "Crosshair"
+      ],
+      "seconds": 3,
+      "caption": "Kimi · 正常、帮助与精确选择",
+      "start": 7,
+      "end": 10
+    },
+    {
+      "kind": "focus",
+      "character": "kimi",
+      "display": "Kimi",
+      "roles": [
+        "AppStarting",
+        "Wait",
+        "IBeam"
+      ],
+      "seconds": 3,
+      "caption": "Kimi · 后台运行、忙碌与文本选择",
+      "start": 10,
+      "end": 13
+    },
+    {
+      "kind": "focus",
+      "character": "kimi",
+      "display": "Kimi",
+      "roles": [
+        "Hand",
+        "Person",
+        "NWPen"
+      ],
+      "seconds": 3,
+      "caption": "Kimi · 链接、人员与手写选择",
+      "start": 13,
+      "end": 16
+    },
+    {
+      "kind": "focus",
+      "character": "kimi",
+      "display": "Kimi",
+      "roles": [
+        "No",
+        "Pin",
+        "UpArrow"
+      ],
+      "seconds": 3,
+      "caption": "Kimi · 不可用、位置与候选选择",
+      "start": 16,
+      "end": 19
+    },
+    {
+      "kind": "focus",
+      "character": "kimi",
+      "display": "Kimi",
+      "roles": [
+        "SizeNS",
+        "SizeWE"
+      ],
+      "seconds": 3,
+      "caption": "Kimi · 垂直与水平调整",
+      "start": 19,
+      "end": 22
+    },
+    {
+      "kind": "focus",
+      "character": "kimi",
+      "display": "Kimi",
+      "roles": [
+        "SizeNWSE",
+        "SizeNESW",
+        "SizeAll"
+      ],
+      "seconds": 3,
+      "caption": "Kimi · 两种对角调整与移动",
+      "start": 22,
+      "end": 25
+    },
+    {
+      "kind": "sizes",
+      "character": "kimi",
+      "display": "Kimi",
+      "seconds": 5,
+      "caption": "Kimi · 实际像素 32 / 48 / 64 / 128 / 256 px，热点在功能符号上",
+      "start": 25,
+      "end": 30
+    },
+    {
+      "kind": "install",
+      "seconds": 6,
+      "caption": "安装方法 · 完整解压 → 选择角色与尺寸 → 可选开启尺寸保持",
+      "start": 30,
+      "end": 36
+    },
+    {
+      "kind": "outro",
+      "seconds": 3,
+      "caption": "社区分享 · 非商业使用 · 仓库与下载地址见简介",
+      "start": 36,
+      "end": 39
+    }
+  ],
+  "profile": {
+    "repository": "kimi-cursors",
+    "title": "Kimi",
+    "namespace": "KimiCursors",
+    "accent": "#8c95bd",
+    "version": "1.0.0",
+    "default_character": "kimi",
+    "characters": [
+      {
+        "id": "kimi",
+        "display": "Kimi",
+        "reference_page": 5
+      }
+    ]
+  },
+  "palette": {
+    "repository": "kimi-cursors",
+    "accent": "#2F4E8F",
+    "ink": "#16233F",
+    "muted": "#7A87A0",
+    "bg_start": "#F4F7FC",
+    "bg_end": "#DCE6F5",
+    "title": "Kimi 星月光标库",
+    "subtitle": "海军蓝 · 银笛星月",
+    "quote": "银白与航海蓝碰在一起，像夜里吹响的一支银笛。",
+    "characters": [
+      {
+        "id": "kimi",
+        "label": "Kimi",
+        "traits": "银白发，星月饰，海军蓝制服配银笛"
+      }
+    ]
+  },
+  "bgm_sha256": "4bc699d0c98e1f150b1f04f576c12b0b963dea638d34b845b087fea35e424936",
+  "music": "MusMus / watson - 放課後アフタースクール"
+}
