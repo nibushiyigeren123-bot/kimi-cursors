@@ -3,7 +3,7 @@
   "title": "Kimi",
   "namespace": "KimiCursors",
   "accent": "#8c95bd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "default_character": "kimi",
   "characters": [
     {
