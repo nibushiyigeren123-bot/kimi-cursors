@@ -1,0 +1,19 @@
+{
+  "repository": "kimi-cursors",
+  "title": "Kimi",
+  "namespace": "KimiCursors",
+  "accent": "#8c95bd",
+  "version": "1.1.0",
+  "default_character": "kimi",
+  "characters": [
+    {
+      "id": "kimi",
+      "display": "Kimi",
+      "reference_page": 5
+    }
+  ],
+  "keeper_runtime_version": "1.1.0",
+  "edition": "original",
+  "loader": "CreateIconFromResourceEx for ANI",
+  "installation_slot_version": "1.0.0"
+}

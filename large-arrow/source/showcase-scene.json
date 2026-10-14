@@ -1,0 +1,75 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "duration": 21,
+  "scenes": [
+    {
+      "kind": "intro",
+      "seconds": 3,
+      "caption": "Kimi 动态指针 · 17 状态 × 五档尺寸",
+      "start": 0,
+      "end": 3
+    },
+    {
+      "kind": "states",
+      "character": "kimi",
+      "display": "Kimi",
+      "seconds": 10,
+      "caption": "Kimi · 全部 17 状态；绘制姿态加八相位二维微动",
+      "start": 3,
+      "end": 13
+    },
+    {
+      "kind": "sizes",
+      "character": "kimi",
+      "display": "Kimi",
+      "seconds": 5,
+      "caption": "Kimi · 实际像素 32 / 48 / 64 / 128 / 256 px，热点在功能符号上",
+      "start": 13,
+      "end": 18
+    },
+    {
+      "kind": "outro",
+      "seconds": 3,
+      "caption": "社区分享 · 非商业使用 · 原作者与音乐署名见仓库",
+      "start": 18,
+      "end": 21
+    }
+  ],
+  "profile": {
+    "repository": "kimi-cursors",
+    "title": "Kimi",
+    "namespace": "KimiCursors",
+    "accent": "#8c95bd",
+    "version": "1.0.0",
+    "default_character": "kimi",
+    "characters": [
+      {
+        "id": "kimi",
+        "display": "Kimi",
+        "reference_page": 5
+      }
+    ]
+  },
+  "palette": {
+    "repository": "kimi-cursors",
+    "accent": "#2F4E8F",
+    "ink": "#16233F",
+    "muted": "#7A87A0",
+    "bg_start": "#F4F7FC",
+    "bg_end": "#DCE6F5",
+    "title": "Kimi 星月光标库",
+    "subtitle": "海军蓝 · 银笛星月",
+    "quote": "银白与航海蓝碰在一起，像夜里吹响的一支银笛。",
+    "characters": [
+      {
+        "id": "kimi",
+        "label": "Kimi",
+        "traits": "银白发，星月饰，海军蓝制服配银笛"
+      }
+    ]
+  },
+  "bgm_sha256": "4bc699d0c98e1f150b1f04f576c12b0b963dea638d34b845b087fea35e424936",
+  "music": "MusMus / watson - 放課後アフタースクール"
+}
