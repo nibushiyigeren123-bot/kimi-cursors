@@ -12,247 +12,10 @@
     "frames": 8,
     "jiffies": 12,
     "frame_ms": 200.0,
-    "action": "idle"
-  },
-  {
-    "character": "kimi",
-    "size": 32,
-    "role": "Help",
-    "label": "帮助选择",
-    "file": "cursors/kimi/32/Help.ani",
-    "hotspot": [
-      0,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "kimi",
-    "size": 32,
-    "role": "AppStarting",
-    "label": "后台运行",
-    "file": "cursors/kimi/32/AppStarting.ani",
-    "hotspot": [
-      0,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "kimi",
-    "size": 32,
-    "role": "Wait",
-    "label": "忙碌",
-    "file": "cursors/kimi/32/Wait.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "kimi",
-    "size": 32,
-    "role": "Crosshair",
-    "label": "精确选择",
-    "file": "cursors/kimi/32/Crosshair.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "kimi",
-    "size": 32,
-    "role": "IBeam",
-    "label": "文本选择",
-    "file": "cursors/kimi/32/IBeam.ani",
-    "hotspot": [
-      2,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "kimi",
-    "size": 32,
-    "role": "NWPen",
-    "label": "手写",
-    "file": "cursors/kimi/32/NWPen.ani",
-    "hotspot": [
-      1,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "kimi",
-    "size": 32,
-    "role": "No",
-    "label": "不可用",
-    "file": "cursors/kimi/32/No.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "failed"
-  },
-  {
-    "character": "kimi",
-    "size": 32,
-    "role": "SizeNS",
-    "label": "垂直调整",
-    "file": "cursors/kimi/32/SizeNS.ani",
-    "hotspot": [
-      2,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "kimi",
-    "size": 32,
-    "role": "SizeWE",
-    "label": "水平调整",
-    "file": "cursors/kimi/32/SizeWE.ani",
-    "hotspot": [
-      4,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "kimi",
-    "size": 32,
-    "role": "SizeNWSE",
-    "label": "对角调整1",
-    "file": "cursors/kimi/32/SizeNWSE.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "kimi",
-    "size": 32,
-    "role": "SizeNESW",
-    "label": "对角调整2",
-    "file": "cursors/kimi/32/SizeNESW.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-left"
-  },
-  {
-    "character": "kimi",
-    "size": 32,
-    "role": "SizeAll",
-    "label": "移动",
-    "file": "cursors/kimi/32/SizeAll.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "kimi",
-    "size": 32,
-    "role": "UpArrow",
-    "label": "候选选择",
-    "file": "cursors/kimi/32/UpArrow.ani",
-    "hotspot": [
-      4,
-      0
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "kimi",
-    "size": 32,
-    "role": "Hand",
-    "label": "链接选择",
-    "file": "cursors/kimi/32/Hand.ani",
-    "hotspot": [
-      3,
-      0
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
-  },
-  {
-    "character": "kimi",
-    "size": 32,
-    "role": "Pin",
-    "label": "位置选择",
-    "file": "cursors/kimi/32/Pin.ani",
-    "hotspot": [
-      3,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "kimi",
-    "size": 32,
-    "role": "Person",
-    "label": "人员选择",
-    "file": "cursors/kimi/32/Person.ani",
-    "hotspot": [
-      4,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "action": "idle",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "17f2741ac2030fe32baf22de8b221482b04220ba28dfa9bcf7463221a3431124"
   },
   {
     "character": "kimi",
@@ -267,247 +30,10 @@
     "frames": 8,
     "jiffies": 12,
     "frame_ms": 200.0,
-    "action": "idle"
-  },
-  {
-    "character": "kimi",
-    "size": 48,
-    "role": "Help",
-    "label": "帮助选择",
-    "file": "cursors/kimi/48/Help.ani",
-    "hotspot": [
-      1,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "kimi",
-    "size": 48,
-    "role": "AppStarting",
-    "label": "后台运行",
-    "file": "cursors/kimi/48/AppStarting.ani",
-    "hotspot": [
-      1,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "kimi",
-    "size": 48,
-    "role": "Wait",
-    "label": "忙碌",
-    "file": "cursors/kimi/48/Wait.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "kimi",
-    "size": 48,
-    "role": "Crosshair",
-    "label": "精确选择",
-    "file": "cursors/kimi/48/Crosshair.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "kimi",
-    "size": 48,
-    "role": "IBeam",
-    "label": "文本选择",
-    "file": "cursors/kimi/48/IBeam.ani",
-    "hotspot": [
-      3,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "kimi",
-    "size": 48,
-    "role": "NWPen",
-    "label": "手写",
-    "file": "cursors/kimi/48/NWPen.ani",
-    "hotspot": [
-      1,
-      12
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "kimi",
-    "size": 48,
-    "role": "No",
-    "label": "不可用",
-    "file": "cursors/kimi/48/No.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "failed"
-  },
-  {
-    "character": "kimi",
-    "size": 48,
-    "role": "SizeNS",
-    "label": "垂直调整",
-    "file": "cursors/kimi/48/SizeNS.ani",
-    "hotspot": [
-      3,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "kimi",
-    "size": 48,
-    "role": "SizeWE",
-    "label": "水平调整",
-    "file": "cursors/kimi/48/SizeWE.ani",
-    "hotspot": [
-      6,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "kimi",
-    "size": 48,
-    "role": "SizeNWSE",
-    "label": "对角调整1",
-    "file": "cursors/kimi/48/SizeNWSE.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "kimi",
-    "size": 48,
-    "role": "SizeNESW",
-    "label": "对角调整2",
-    "file": "cursors/kimi/48/SizeNESW.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-left"
-  },
-  {
-    "character": "kimi",
-    "size": 48,
-    "role": "SizeAll",
-    "label": "移动",
-    "file": "cursors/kimi/48/SizeAll.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "kimi",
-    "size": 48,
-    "role": "UpArrow",
-    "label": "候选选择",
-    "file": "cursors/kimi/48/UpArrow.ani",
-    "hotspot": [
-      5,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "kimi",
-    "size": 48,
-    "role": "Hand",
-    "label": "链接选择",
-    "file": "cursors/kimi/48/Hand.ani",
-    "hotspot": [
-      4,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
-  },
-  {
-    "character": "kimi",
-    "size": 48,
-    "role": "Pin",
-    "label": "位置选择",
-    "file": "cursors/kimi/48/Pin.ani",
-    "hotspot": [
-      5,
-      12
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "kimi",
-    "size": 48,
-    "role": "Person",
-    "label": "人员选择",
-    "file": "cursors/kimi/48/Person.ani",
-    "hotspot": [
-      6,
-      3
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "action": "idle",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "2a86d065414361c97f2e95df0f80873a6a49102929863e113dde90ac172a6c98"
   },
   {
     "character": "kimi",
@@ -522,247 +48,28 @@
     "frames": 8,
     "jiffies": 12,
     "frame_ms": 200.0,
-    "action": "idle"
+    "action": "idle",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "d82b292471cfa8a45367ba36b6d35baa9a273d626616977df60d88ca21c49e39"
   },
   {
     "character": "kimi",
-    "size": 64,
-    "role": "Help",
-    "label": "帮助选择",
-    "file": "cursors/kimi/64/Help.ani",
+    "size": 96,
+    "role": "Arrow",
+    "label": "正常选择",
+    "file": "cursors/kimi/96/Arrow.ani",
     "hotspot": [
       1,
-      1
+      2
     ],
     "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "kimi",
-    "size": 64,
-    "role": "AppStarting",
-    "label": "后台运行",
-    "file": "cursors/kimi/64/AppStarting.ani",
-    "hotspot": [
-      1,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "kimi",
-    "size": 64,
-    "role": "Wait",
-    "label": "忙碌",
-    "file": "cursors/kimi/64/Wait.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "kimi",
-    "size": 64,
-    "role": "Crosshair",
-    "label": "精确选择",
-    "file": "cursors/kimi/64/Crosshair.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "kimi",
-    "size": 64,
-    "role": "IBeam",
-    "label": "文本选择",
-    "file": "cursors/kimi/64/IBeam.ani",
-    "hotspot": [
-      4,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "kimi",
-    "size": 64,
-    "role": "NWPen",
-    "label": "手写",
-    "file": "cursors/kimi/64/NWPen.ani",
-    "hotspot": [
-      1,
-      16
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "kimi",
-    "size": 64,
-    "role": "No",
-    "label": "不可用",
-    "file": "cursors/kimi/64/No.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "failed"
-  },
-  {
-    "character": "kimi",
-    "size": 64,
-    "role": "SizeNS",
-    "label": "垂直调整",
-    "file": "cursors/kimi/64/SizeNS.ani",
-    "hotspot": [
-      3,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "kimi",
-    "size": 64,
-    "role": "SizeWE",
-    "label": "水平调整",
-    "file": "cursors/kimi/64/SizeWE.ani",
-    "hotspot": [
-      8,
-      3
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "kimi",
-    "size": 64,
-    "role": "SizeNWSE",
-    "label": "对角调整1",
-    "file": "cursors/kimi/64/SizeNWSE.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "kimi",
-    "size": 64,
-    "role": "SizeNESW",
-    "label": "对角调整2",
-    "file": "cursors/kimi/64/SizeNESW.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-left"
-  },
-  {
-    "character": "kimi",
-    "size": 64,
-    "role": "SizeAll",
-    "label": "移动",
-    "file": "cursors/kimi/64/SizeAll.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "kimi",
-    "size": 64,
-    "role": "UpArrow",
-    "label": "候选选择",
-    "file": "cursors/kimi/64/UpArrow.ani",
-    "hotspot": [
-      7,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "kimi",
-    "size": 64,
-    "role": "Hand",
-    "label": "链接选择",
-    "file": "cursors/kimi/64/Hand.ani",
-    "hotspot": [
-      5,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
-  },
-  {
-    "character": "kimi",
-    "size": 64,
-    "role": "Pin",
-    "label": "位置选择",
-    "file": "cursors/kimi/64/Pin.ani",
-    "hotspot": [
-      7,
-      16
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "kimi",
-    "size": 64,
-    "role": "Person",
-    "label": "人员选择",
-    "file": "cursors/kimi/64/Person.ani",
-    "hotspot": [
-      8,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "jiffies": 12,
+    "frame_ms": 200.0,
+    "action": "idle",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "3e64c2ef1428356d09daf20d8ffc10b49530989f630703f71fce64bb632d3bce"
   },
   {
     "character": "kimi",
@@ -777,247 +84,10 @@
     "frames": 8,
     "jiffies": 12,
     "frame_ms": 200.0,
-    "action": "idle"
-  },
-  {
-    "character": "kimi",
-    "size": 128,
-    "role": "Help",
-    "label": "帮助选择",
-    "file": "cursors/kimi/128/Help.ani",
-    "hotspot": [
-      2,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "kimi",
-    "size": 128,
-    "role": "AppStarting",
-    "label": "后台运行",
-    "file": "cursors/kimi/128/AppStarting.ani",
-    "hotspot": [
-      2,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "kimi",
-    "size": 128,
-    "role": "Wait",
-    "label": "忙碌",
-    "file": "cursors/kimi/128/Wait.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "kimi",
-    "size": 128,
-    "role": "Crosshair",
-    "label": "精确选择",
-    "file": "cursors/kimi/128/Crosshair.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "kimi",
-    "size": 128,
-    "role": "IBeam",
-    "label": "文本选择",
-    "file": "cursors/kimi/128/IBeam.ani",
-    "hotspot": [
-      8,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "kimi",
-    "size": 128,
-    "role": "NWPen",
-    "label": "手写",
-    "file": "cursors/kimi/128/NWPen.ani",
-    "hotspot": [
-      2,
-      32
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "kimi",
-    "size": 128,
-    "role": "No",
-    "label": "不可用",
-    "file": "cursors/kimi/128/No.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "failed"
-  },
-  {
-    "character": "kimi",
-    "size": 128,
-    "role": "SizeNS",
-    "label": "垂直调整",
-    "file": "cursors/kimi/128/SizeNS.ani",
-    "hotspot": [
-      7,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "kimi",
-    "size": 128,
-    "role": "SizeWE",
-    "label": "水平调整",
-    "file": "cursors/kimi/128/SizeWE.ani",
-    "hotspot": [
-      17,
-      7
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "kimi",
-    "size": 128,
-    "role": "SizeNWSE",
-    "label": "对角调整1",
-    "file": "cursors/kimi/128/SizeNWSE.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "kimi",
-    "size": 128,
-    "role": "SizeNESW",
-    "label": "对角调整2",
-    "file": "cursors/kimi/128/SizeNESW.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-left"
-  },
-  {
-    "character": "kimi",
-    "size": 128,
-    "role": "SizeAll",
-    "label": "移动",
-    "file": "cursors/kimi/128/SizeAll.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "kimi",
-    "size": 128,
-    "role": "UpArrow",
-    "label": "候选选择",
-    "file": "cursors/kimi/128/UpArrow.ani",
-    "hotspot": [
-      14,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "kimi",
-    "size": 128,
-    "role": "Hand",
-    "label": "链接选择",
-    "file": "cursors/kimi/128/Hand.ani",
-    "hotspot": [
-      10,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
-  },
-  {
-    "character": "kimi",
-    "size": 128,
-    "role": "Pin",
-    "label": "位置选择",
-    "file": "cursors/kimi/128/Pin.ani",
-    "hotspot": [
-      13,
-      32
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "kimi",
-    "size": 128,
-    "role": "Person",
-    "label": "人员选择",
-    "file": "cursors/kimi/128/Person.ani",
-    "hotspot": [
-      15,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "action": "idle",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "66cbb55a1c9e72b19de4a838ff7487c80faeceb3cdcd9d6d1227711efbe92eb0"
   },
   {
     "character": "kimi",
@@ -1032,7 +102,100 @@
     "frames": 8,
     "jiffies": 12,
     "frame_ms": 200.0,
-    "action": "idle"
+    "action": "idle",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "201ad25d3e42446a624eefca5730c2569ffd898b56a4733dc6e2ea11a2183a1b"
+  },
+  {
+    "character": "kimi",
+    "size": 32,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/kimi/32/Help.ani",
+    "hotspot": [
+      0,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "4d59f35411959056cb137b628df4e8e4adfbb76aa6ff28301f9c6f22e8881268"
+  },
+  {
+    "character": "kimi",
+    "size": 48,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/kimi/48/Help.ani",
+    "hotspot": [
+      1,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "f19554bc3bcb95ab63e0d32de4a017bdf570c13d2ac1949c3ecbcf97f6f0d177"
+  },
+  {
+    "character": "kimi",
+    "size": 64,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/kimi/64/Help.ani",
+    "hotspot": [
+      1,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "9ae69adcf73ead96eb8e428a5abfc0970517f9cd0436719cf62be0c76d7e5d48"
+  },
+  {
+    "character": "kimi",
+    "size": 96,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/kimi/96/Help.ani",
+    "hotspot": [
+      1,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "3c7662565dd1debb5201e3d9ed9c092f4aa66e3709a864c12ada902245cd6efb"
+  },
+  {
+    "character": "kimi",
+    "size": 128,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/kimi/128/Help.ani",
+    "hotspot": [
+      2,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "7603a3802d6a4690002fc9c0cb63feaa9b6aca593ec3767c42c832570f300f4a"
   },
   {
     "character": "kimi",
@@ -1047,7 +210,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "review"
+    "action": "review",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "7056e161fba25721243b5bb35d38539944695ccac2bd52595f1131f7f81c533a"
+  },
+  {
+    "character": "kimi",
+    "size": 32,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/kimi/32/AppStarting.ani",
+    "hotspot": [
+      0,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "342b24bbe4ea29a129baab0d345ce0a2e5ca56dcabf7810d53de31a80e54edb4"
+  },
+  {
+    "character": "kimi",
+    "size": 48,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/kimi/48/AppStarting.ani",
+    "hotspot": [
+      1,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "f46d120108f0e2237e70367d85850ff1ab69952003045ff38a4e41020c64a28f"
+  },
+  {
+    "character": "kimi",
+    "size": 64,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/kimi/64/AppStarting.ani",
+    "hotspot": [
+      1,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "3778cc078f178cc3c32c76d1cfab773d41eb22fded3bd44901dcf1627ed70906"
+  },
+  {
+    "character": "kimi",
+    "size": 96,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/kimi/96/AppStarting.ani",
+    "hotspot": [
+      1,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "13a281755d7555d23ad28655c3803720a2b0e3b07ab736fb653c7d2f33b66af4"
+  },
+  {
+    "character": "kimi",
+    "size": 128,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/kimi/128/AppStarting.ani",
+    "hotspot": [
+      2,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "aa48e4701df60f094e0c6724d157d03a7cb89450623b8dcaa8a14f84c3229b02"
   },
   {
     "character": "kimi",
@@ -1062,7 +318,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "waiting"
+    "action": "waiting",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "dff2a80ae87ae88ef5136375437116db3d6a9801ca48b5b9ad5f14429c6f9d93"
+  },
+  {
+    "character": "kimi",
+    "size": 32,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/kimi/32/Wait.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "22a8b2ab2722d5cb3ce60d6c3c4206fed963ae3d3317052560c3f84720783b1d"
+  },
+  {
+    "character": "kimi",
+    "size": 48,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/kimi/48/Wait.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "e89c3431a21074c7a9342f84e5766d46c43764a4d9a61b70f49e7ff48b68d44e"
+  },
+  {
+    "character": "kimi",
+    "size": 64,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/kimi/64/Wait.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "a4d0de4ee91d83b907d8721cdcc9e45def365278dfc5198dc8bb7a0aa9b295c6"
+  },
+  {
+    "character": "kimi",
+    "size": 96,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/kimi/96/Wait.ani",
+    "hotspot": [
+      13,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "bb1e7d74dc4cb679427ccfba854619da3ccbac2b1fba9282fd4c804e77d31f96"
+  },
+  {
+    "character": "kimi",
+    "size": 128,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/kimi/128/Wait.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "dd670b084a1f823702f9141ae0ef86bf5f8c1762902909398e04d9a8677cfbf0"
   },
   {
     "character": "kimi",
@@ -1077,7 +426,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "working"
+    "action": "working",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "9cf5b869b2344507fc6c3ae0ef966ac4c599c80e878804c08f711e803678e683"
+  },
+  {
+    "character": "kimi",
+    "size": 32,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/kimi/32/Crosshair.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "2be09eb41c6667530060c4516441b20aeb37c9d193c814fe85d8d11d16e34acb"
+  },
+  {
+    "character": "kimi",
+    "size": 48,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/kimi/48/Crosshair.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "22285733bcc442d22f9e8fd833b023cd12ba892f3f9391cd8a4489539ca5bda7"
+  },
+  {
+    "character": "kimi",
+    "size": 64,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/kimi/64/Crosshair.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "bb1c1b4339acb23c9f9e7ef6e214a3fb2b6395c7908db8d2fdb63772f2810d1c"
+  },
+  {
+    "character": "kimi",
+    "size": 96,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/kimi/96/Crosshair.ani",
+    "hotspot": [
+      13,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "ae42072442f411e19b371fa15998417023b30ec4299f34468c17b7468ea67c2d"
+  },
+  {
+    "character": "kimi",
+    "size": 128,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/kimi/128/Crosshair.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "47ba15a0ec385cd8e691f9b5da4ee9d3ecc5ffeff5f1a2a3f14ddb105acc7003"
   },
   {
     "character": "kimi",
@@ -1092,7 +534,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "review"
+    "action": "review",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "66e09cbcf27119277da8a6eaf5420a854eabe062359d739cb62a2e481eec2f14"
+  },
+  {
+    "character": "kimi",
+    "size": 32,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/kimi/32/IBeam.ani",
+    "hotspot": [
+      2,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "48ab1a5da9336832d97b84c8536b4213949fc61d9ee08e741be02423f9e1b56e"
+  },
+  {
+    "character": "kimi",
+    "size": 48,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/kimi/48/IBeam.ani",
+    "hotspot": [
+      3,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "e3d230bc2ad6d955a50a773ed571de7ef2c161caf8cfead7d2b859c199c0ca65"
+  },
+  {
+    "character": "kimi",
+    "size": 64,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/kimi/64/IBeam.ani",
+    "hotspot": [
+      4,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "e20e2b9501a7b4eeca2bc940e0c60a4f23f809a1c8e4d5b190693d735141f0cd"
+  },
+  {
+    "character": "kimi",
+    "size": 96,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/kimi/96/IBeam.ani",
+    "hotspot": [
+      6,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "b149dcb070e48b765035ed4495af085db969f6ab625e4727f5ce076b40be3440"
+  },
+  {
+    "character": "kimi",
+    "size": 128,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/kimi/128/IBeam.ani",
+    "hotspot": [
+      8,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "f63f3e310c79d23c4656e74c975236b7acf529259b902378fae72158f77d7aed"
   },
   {
     "character": "kimi",
@@ -1107,7 +642,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "working"
+    "action": "working",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "0ff29719f08641572c4f8793017fcd992aea74b76cf9ab528a92aab4eb6de64b"
+  },
+  {
+    "character": "kimi",
+    "size": 32,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/kimi/32/NWPen.ani",
+    "hotspot": [
+      1,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "b7c5dbe0c7aa7d32b3230067a642337f3be00b24e6ab83647c75958074f21fae"
+  },
+  {
+    "character": "kimi",
+    "size": 48,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/kimi/48/NWPen.ani",
+    "hotspot": [
+      1,
+      12
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "037387e70ab5203a58846727a48af96b19282a4cc26032732c30f81f75f68b1e"
+  },
+  {
+    "character": "kimi",
+    "size": 64,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/kimi/64/NWPen.ani",
+    "hotspot": [
+      1,
+      16
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "1d8857693cf5e737685e71fc98ecdca8cfa3b455c04c3fd5b99f347078f70768"
+  },
+  {
+    "character": "kimi",
+    "size": 96,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/kimi/96/NWPen.ani",
+    "hotspot": [
+      2,
+      24
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "0d7beea06b4ee57774dfbfc15355e5f0e1dbe4d571857cc549e66343d4b68bf6"
+  },
+  {
+    "character": "kimi",
+    "size": 128,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/kimi/128/NWPen.ani",
+    "hotspot": [
+      2,
+      32
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "26c3fd16ff57055da7cd1a863be0e9202522541e72cf750381f2a1012a90287b"
   },
   {
     "character": "kimi",
@@ -1122,7 +750,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "working"
+    "action": "working",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "b29e01207317836c8e200af90d45d519bb37e2a5815ca475d61c07ef71e1711e"
+  },
+  {
+    "character": "kimi",
+    "size": 32,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/kimi/32/No.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "1c599fa8cbb124b5571402397d5a7804f9bed1d84fcdf654cbf6f253ecbef21d"
+  },
+  {
+    "character": "kimi",
+    "size": 48,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/kimi/48/No.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "e874714427e5a1b33a0da71689f04051c79fbcc0b3d926d00c6606795faf126d"
+  },
+  {
+    "character": "kimi",
+    "size": 64,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/kimi/64/No.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "1aaefc94c37c50e5432e2f9d195452526c3a4425587d5fb72ba3e3986db642cf"
+  },
+  {
+    "character": "kimi",
+    "size": 96,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/kimi/96/No.ani",
+    "hotspot": [
+      13,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "057d87dcc7ee90add6163b6e067026c976c2ed81a90690ebeea674f6ac9ae46d"
+  },
+  {
+    "character": "kimi",
+    "size": 128,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/kimi/128/No.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "efe8e19d45cf2887fe3e1e50e3a89fc7c6ce9bb1714f29f02a7dd0283790a798"
   },
   {
     "character": "kimi",
@@ -1137,7 +858,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "failed"
+    "action": "failed",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "2f4337154173e72e928c173984173584730b2018265578a8a846e23efc79dfce"
+  },
+  {
+    "character": "kimi",
+    "size": 32,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/kimi/32/SizeNS.ani",
+    "hotspot": [
+      2,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "e26e796192e8a364033270f1cd64dde31343a22cd991a9ab34fcb9339c7e5497"
+  },
+  {
+    "character": "kimi",
+    "size": 48,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/kimi/48/SizeNS.ani",
+    "hotspot": [
+      3,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "24c2737aa10dd167836a60ad99f555b8ebdb037af3d27d9f200493bd8898c969"
+  },
+  {
+    "character": "kimi",
+    "size": 64,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/kimi/64/SizeNS.ani",
+    "hotspot": [
+      3,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "2c290cb18493f10096093717183ee1e69f89c72f9e4cf1a41dc77a2d79328ebb"
+  },
+  {
+    "character": "kimi",
+    "size": 96,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/kimi/96/SizeNS.ani",
+    "hotspot": [
+      5,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "4b9584304c03fb2cd7fbdab2235b7cd7da0b81b89d1d14081cd5ceb65b122ff9"
+  },
+  {
+    "character": "kimi",
+    "size": 128,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/kimi/128/SizeNS.ani",
+    "hotspot": [
+      7,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "83a26ea9673402ac0f3adbba26030b7d11bf4be6af937506d4e3598f2df15620"
   },
   {
     "character": "kimi",
@@ -1152,7 +966,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "jumping"
+    "action": "jumping",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "f477169332b0b6a382d952cec9deaa856fe3308850e8cd335b7093f3da810028"
+  },
+  {
+    "character": "kimi",
+    "size": 32,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/kimi/32/SizeWE.ani",
+    "hotspot": [
+      4,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "63d83f48ebda8c4d4439c947b9243560c668d60c4b3b6c889d59c4d9ce0fda93"
+  },
+  {
+    "character": "kimi",
+    "size": 48,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/kimi/48/SizeWE.ani",
+    "hotspot": [
+      6,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "e7fdcef83fcf44a62ad8223510a59ef84fb45e18d7e0283e20846104893f8523"
+  },
+  {
+    "character": "kimi",
+    "size": 64,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/kimi/64/SizeWE.ani",
+    "hotspot": [
+      8,
+      3
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "f5ac98fe02413724f10fc445c5669786c9c97f2de848b9bbccec63fc938e599f"
+  },
+  {
+    "character": "kimi",
+    "size": 96,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/kimi/96/SizeWE.ani",
+    "hotspot": [
+      13,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "99599c0ac1ddcdd5f8c7ff7b77156edee5ecc676e1eedfc739b4f7cc12dc7c11"
+  },
+  {
+    "character": "kimi",
+    "size": 128,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/kimi/128/SizeWE.ani",
+    "hotspot": [
+      17,
+      7
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "d5f00788afe0f248a77382ad066d7ded8963284c29b2034974e2dd71c6899244"
   },
   {
     "character": "kimi",
@@ -1167,7 +1074,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "walking-right"
+    "action": "walking-right",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "d50b2520d19722ffdcc5903a21be928ca55668ac90fb951f0c9468f61ad58e8a"
+  },
+  {
+    "character": "kimi",
+    "size": 32,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/kimi/32/SizeNWSE.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "253a9b04d526f2aa764b007cdbbb033e59ea33496883476b238b54ab9403dfcc"
+  },
+  {
+    "character": "kimi",
+    "size": 48,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/kimi/48/SizeNWSE.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "75f2d33195b92e9fe28678888aae527fe27686f07f44d675b0a96738d410f246"
+  },
+  {
+    "character": "kimi",
+    "size": 64,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/kimi/64/SizeNWSE.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "8a5f21888c0af54561b676ffe3d2252b20b21a4cfaea15d2b35301b66e84d90c"
+  },
+  {
+    "character": "kimi",
+    "size": 96,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/kimi/96/SizeNWSE.ani",
+    "hotspot": [
+      13,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "4881593ca748b8392a433edc6378d12836c398a74084506e8addde3074090588"
+  },
+  {
+    "character": "kimi",
+    "size": 128,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/kimi/128/SizeNWSE.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "4b034791937c43484c6e0692c65796baeee6a23913f150001c8ea31d1b8c92a9"
   },
   {
     "character": "kimi",
@@ -1182,7 +1182,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "walking-right"
+    "action": "walking-right",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "7316dd74c5a2fc1f2528c0801afd649e159e307ca044d1b6cd802abd651d3529"
+  },
+  {
+    "character": "kimi",
+    "size": 32,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/kimi/32/SizeNESW.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "dc0ee4083b27a2af535971b2433f135d4828f28b44c0124ab340b24cd7461755"
+  },
+  {
+    "character": "kimi",
+    "size": 48,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/kimi/48/SizeNESW.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "801116ff93cacc623e07fd08793bcf9970af79a840966664e2c48911571d964e"
+  },
+  {
+    "character": "kimi",
+    "size": 64,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/kimi/64/SizeNESW.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "1ad09649079e1da724640df6a83f4554972ae14b405b6668d1222da7d1062ed6"
+  },
+  {
+    "character": "kimi",
+    "size": 96,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/kimi/96/SizeNESW.ani",
+    "hotspot": [
+      13,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "4c50730ff685e74341bcd3b1b8990118d040bd433dcc023dcdba827271162b0e"
+  },
+  {
+    "character": "kimi",
+    "size": 128,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/kimi/128/SizeNESW.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "967f59a46401d6bca92d779e73cab00d133b51ceac3a9f6366bd957f46842354"
   },
   {
     "character": "kimi",
@@ -1197,7 +1290,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "walking-left"
+    "action": "walking-left",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "293c9b56aec36573d2e78687aa682e06c5e4eaffc582d558427d5c6831289f2a"
+  },
+  {
+    "character": "kimi",
+    "size": 32,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/kimi/32/SizeAll.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "e638ca03adb9929d218326ff022cddd2ec7d8b01349e8be3185f9a536baff94b"
+  },
+  {
+    "character": "kimi",
+    "size": 48,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/kimi/48/SizeAll.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "e0498ab94252d4a55db1c2cfcf8d2c497499cc430dcefef9b917081525ffe441"
+  },
+  {
+    "character": "kimi",
+    "size": 64,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/kimi/64/SizeAll.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "c5006f8b29b9f91a7609a5d4610d9e66107d1a4214a7d9443af6aa5b7aaf0cb2"
+  },
+  {
+    "character": "kimi",
+    "size": 96,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/kimi/96/SizeAll.ani",
+    "hotspot": [
+      13,
+      12
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "af27cb69d678a384ea38b274fcdbac27ce7917670679d02db7f7989d64e344a0"
+  },
+  {
+    "character": "kimi",
+    "size": 128,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/kimi/128/SizeAll.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "0dcdf3e3dcb576356764edeb6dcf405767e30f3cd906dcd04263acd00f95ab4a"
   },
   {
     "character": "kimi",
@@ -1212,7 +1398,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "walking-right"
+    "action": "walking-right",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "755b60c9cd3dfceea190a6a154c1d81bbf148c6644aecd8fe4a3c6299c4790e3"
+  },
+  {
+    "character": "kimi",
+    "size": 32,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/kimi/32/UpArrow.ani",
+    "hotspot": [
+      4,
+      0
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "19dca1df50aa2901cf0ab2ad27d1d611936a96988f27f8e4d645895d27f6f442"
+  },
+  {
+    "character": "kimi",
+    "size": 48,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/kimi/48/UpArrow.ani",
+    "hotspot": [
+      5,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "390574142f79dc459ae405177b057436dad4396235fdd2a28ded1ae9fca1035d"
+  },
+  {
+    "character": "kimi",
+    "size": 64,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/kimi/64/UpArrow.ani",
+    "hotspot": [
+      7,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "4e15d8e95cd08c95f6c8015df7e6ec3a7899002763fb13fd52ccf47b86af12f3"
+  },
+  {
+    "character": "kimi",
+    "size": 96,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/kimi/96/UpArrow.ani",
+    "hotspot": [
+      11,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "ab1350d9253592c1e59b45eb4b9da1b3676f81ac90b1aa978403e2a1b3484169"
+  },
+  {
+    "character": "kimi",
+    "size": 128,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/kimi/128/UpArrow.ani",
+    "hotspot": [
+      14,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "71fbc833bd3b0e3583d21cec0fc3a28c64a1ec20f9b0effbba1a044e250aed2b"
   },
   {
     "character": "kimi",
@@ -1227,7 +1506,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "jumping"
+    "action": "jumping",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "beb9185d1827c9c40a8742f1dcd5596c8da06bf151b841814494916be4d32a93"
+  },
+  {
+    "character": "kimi",
+    "size": 32,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/kimi/32/Hand.ani",
+    "hotspot": [
+      3,
+      0
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "486ef84bb599463271247f890684ea6ebb9e81eba8f5e88da67fa0e468d73b21"
+  },
+  {
+    "character": "kimi",
+    "size": 48,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/kimi/48/Hand.ani",
+    "hotspot": [
+      4,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "6cddeb109ef1a5b1d1a49699011a3fae6f240bd51d1d33299ea019aca9a331d5"
+  },
+  {
+    "character": "kimi",
+    "size": 64,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/kimi/64/Hand.ani",
+    "hotspot": [
+      5,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "caf5ee2c915c33cee5dcf0ab524614e3daaeb1cadc160e6232d2dc4f462904b5"
+  },
+  {
+    "character": "kimi",
+    "size": 96,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/kimi/96/Hand.ani",
+    "hotspot": [
+      8,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "215f95553a7458cadd14402d26fe76852681f409d1330b216def528356cf7ac4"
+  },
+  {
+    "character": "kimi",
+    "size": 128,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/kimi/128/Hand.ani",
+    "hotspot": [
+      10,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "612302ae7264ddeec28cd7c75dcf8e81eff736c259f78511a4a1cf14063611be"
   },
   {
     "character": "kimi",
@@ -1242,7 +1614,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "action": "waving",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "8cc7d02bf5d6b502723cc1b053ea0dfd5f554d8b4aa6f6ce5f1f3d6a26b6c5c0"
+  },
+  {
+    "character": "kimi",
+    "size": 32,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/kimi/32/Pin.ani",
+    "hotspot": [
+      3,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "93ff4b77e139e06d71a7dd551e612e1b685c1b8207c04ef2f6e4b0393c070933"
+  },
+  {
+    "character": "kimi",
+    "size": 48,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/kimi/48/Pin.ani",
+    "hotspot": [
+      5,
+      12
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "2a4bf49982792c9d6a99284e1a049cabaf85f0834d91e0f110a457c07aaacf18"
+  },
+  {
+    "character": "kimi",
+    "size": 64,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/kimi/64/Pin.ani",
+    "hotspot": [
+      7,
+      16
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "ae6b1a9b0cf2ccbbffddaa80105832b8c22742edf1e7475e80b0f3f198bca6a2"
+  },
+  {
+    "character": "kimi",
+    "size": 96,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/kimi/96/Pin.ani",
+    "hotspot": [
+      10,
+      24
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "6d822d07fdaef01be0c59846cc983b8f7697b89e58d6048134c3beaffde97e70"
+  },
+  {
+    "character": "kimi",
+    "size": 128,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/kimi/128/Pin.ani",
+    "hotspot": [
+      13,
+      32
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "9684221ab511d766d40bc4001f26fd30da69f49d88dad398a34da01bfe914bf6"
   },
   {
     "character": "kimi",
@@ -1257,7 +1722,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "waiting"
+    "action": "waiting",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "2ba773444655af34d983f4ef08fdd80bdabd3bdd655c021208e7dd66a56c10fc"
+  },
+  {
+    "character": "kimi",
+    "size": 32,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/kimi/32/Person.ani",
+    "hotspot": [
+      4,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "c390b39380151ba8f74ef1c350100d2bee7a3321ea01b92af059005bf9fc85b0"
+  },
+  {
+    "character": "kimi",
+    "size": 48,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/kimi/48/Person.ani",
+    "hotspot": [
+      6,
+      3
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "7353b9fa63e3d6215e803ad504b55ed19d28987c80b51920a47a8ad8d7155490"
+  },
+  {
+    "character": "kimi",
+    "size": 64,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/kimi/64/Person.ani",
+    "hotspot": [
+      8,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "88517584fbce9373e1ed2ebbe2d9bce6b80de10dc9cf3e1b51133d664a433e06"
+  },
+  {
+    "character": "kimi",
+    "size": 96,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/kimi/96/Person.ani",
+    "hotspot": [
+      12,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "e4e97b2c751592241bb98e906a6c66493749224d4adefa18ff045881c72dde1c"
+  },
+  {
+    "character": "kimi",
+    "size": 128,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/kimi/128/Person.ani",
+    "hotspot": [
+      15,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "577d0ce9e8b3828a49cbb630adc01caafa5f29c2a75daea87f3ae1148b6c8b15"
   },
   {
     "character": "kimi",
@@ -1272,6 +1830,9 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "action": "waving",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "fe191378f144a299db1e3bbdf9c3159eb0ebaaa685e45da8e152d7c907e69c5e"
   }
 ]

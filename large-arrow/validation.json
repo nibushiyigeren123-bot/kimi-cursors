@@ -1,0 +1,65 @@
+{
+  "version": "1.2.0",
+  "success": true,
+  "fileVerification": {
+    "repository": "kimi-cursors",
+    "aniFiles": 221,
+    "decodedFrames": 1768,
+    "characterIdentityFrames": 952,
+    "maxGapError": 0.9883643544853413,
+    "rawSourceFilesUnchanged": 20,
+    "paletteChecks": [
+      {
+        "character": "kimi",
+        "edition": "original",
+        "size": 96,
+        "outline": "#16233f",
+        "verified": true
+      },
+      {
+        "character": "kimi",
+        "edition": "original",
+        "size": 256,
+        "outline": "#16233f",
+        "verified": true
+      },
+      {
+        "character": "kimi",
+        "edition": "plus",
+        "size": 96,
+        "outline": "#16233f",
+        "verified": true
+      },
+      {
+        "character": "kimi",
+        "edition": "plus",
+        "size": 256,
+        "outline": "#16233f",
+        "verified": true
+      }
+    ],
+    "success": true
+  },
+  "actualWindowsAcceptance": {
+    "repository": "kimi-cursors",
+    "observations": 32,
+    "sameDefaultCaptures": 15,
+    "nativeCharacterComparisons": [
+      {
+        "character": "kimi",
+        "samePhysicalSize": true,
+        "opaquePixelsCompared": 3649,
+        "maxRGBDifference": 0,
+        "ordinaryCompositionPixelsExcluded": 0,
+        "offset": [
+          12,
+          1
+        ]
+      }
+    ],
+    "success": true
+  },
+  "environment": "Windows11-Lab; interactive LabUser; 96DPI; system preference32 and48",
+  "scope": "This repository: real CMD for every character/tier; all17 native system role sizes; default-scheme pixel identity. Shared edge-case tests: Gemini reboot, user-size48, INF96/256, legacy-backup filtering, cache repair, matching-name foreign paths.",
+  "limitations": "Actual VM acceptance covers this Windows11 build at96DPI; otherWindows versions and DPI combinations are not claimed tested."
+}
