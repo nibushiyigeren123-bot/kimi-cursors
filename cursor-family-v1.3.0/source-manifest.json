@@ -1,0 +1,26 @@
+{
+  "version": "v1.3.0",
+  "packages": [
+    {
+      "kind": "non-avoidance",
+      "name": "kimi-cursors-non-avoidance-v1.3.0.zip",
+      "sha256": "90aa26238745f5a34c67ee254c241b97adaf42c90baecc0c08374777baae8624",
+      "coreSha256": "439155a4cd911b60b6d67880a386a105ee86687419cb2531346d20abbce4349b",
+      "profiles": 13,
+      "characters": [
+        "kimi"
+      ]
+    },
+    {
+      "kind": "avoidance",
+      "name": "kimi-cursors-avoidance-v1.3.0.zip",
+      "sha256": "6eb523524c600418d538d4105a77fc503550dc093b0d2610f966493d4876296a",
+      "coreSha256": "95a24bd9db6be92a126df4babc201e73aba80808a5d0504d644ab95b119fff74",
+      "profiles": 13,
+      "characters": [
+        "kimi"
+      ]
+    }
+  ],
+  "resources": "Complete editable PNG/ANI assets are included in the corresponding installation ZIP."
+}
