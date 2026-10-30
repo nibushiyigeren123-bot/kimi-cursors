@@ -1,0 +1,171 @@
+[
+  {
+    "id": "kimi-original-32",
+    "character": "kimi",
+    "display": "Kimi 普通 32档",
+    "scheme": "AI Family avoidance v1.3.1 - kimi original 32",
+    "edition": "original",
+    "size": 32,
+    "symbolLongEdge": 8,
+    "bodyCanvas": [
+      32,
+      32
+    ]
+  },
+  {
+    "id": "kimi-original-48",
+    "character": "kimi",
+    "display": "Kimi 普通 48档",
+    "scheme": "AI Family avoidance v1.3.1 - kimi original 48",
+    "edition": "original",
+    "size": 48,
+    "symbolLongEdge": 12,
+    "bodyCanvas": [
+      48,
+      48
+    ]
+  },
+  {
+    "id": "kimi-original-64",
+    "character": "kimi",
+    "display": "Kimi 普通 64档",
+    "scheme": "AI Family avoidance v1.3.1 - kimi original 64",
+    "edition": "original",
+    "size": 64,
+    "symbolLongEdge": 16,
+    "bodyCanvas": [
+      62,
+      63
+    ]
+  },
+  {
+    "id": "kimi-original-96",
+    "character": "kimi",
+    "display": "Kimi 普通 96档",
+    "scheme": "AI Family avoidance v1.3.1 - kimi original 96",
+    "edition": "original",
+    "size": 96,
+    "symbolLongEdge": 20,
+    "bodyCanvas": [
+      90,
+      91
+    ]
+  },
+  {
+    "id": "kimi-original-128",
+    "character": "kimi",
+    "display": "Kimi 普通 128档",
+    "scheme": "AI Family avoidance v1.3.1 - kimi original 128",
+    "edition": "original",
+    "size": 128,
+    "symbolLongEdge": 24,
+    "bodyCanvas": [
+      118,
+      120
+    ]
+  },
+  {
+    "id": "kimi-original-256",
+    "character": "kimi",
+    "display": "Kimi 普通 256档",
+    "scheme": "AI Family avoidance v1.3.1 - kimi original 256",
+    "edition": "original",
+    "size": 256,
+    "symbolLongEdge": 28,
+    "bodyCanvas": [
+      228,
+      231
+    ]
+  },
+  {
+    "id": "kimi-plus-32",
+    "character": "kimi",
+    "display": "Kimi Plus 32档",
+    "scheme": "AI Family avoidance v1.3.1 - kimi plus 32",
+    "edition": "plus",
+    "size": 32,
+    "symbolLongEdge": 12,
+    "bodyCanvas": [
+      32,
+      32
+    ]
+  },
+  {
+    "id": "kimi-plus-48",
+    "character": "kimi",
+    "display": "Kimi Plus 48档",
+    "scheme": "AI Family avoidance v1.3.1 - kimi plus 48",
+    "edition": "plus",
+    "size": 48,
+    "symbolLongEdge": 16,
+    "bodyCanvas": [
+      48,
+      48
+    ]
+  },
+  {
+    "id": "kimi-plus-64",
+    "character": "kimi",
+    "display": "Kimi Plus 64档",
+    "scheme": "AI Family avoidance v1.3.1 - kimi plus 64",
+    "edition": "plus",
+    "size": 64,
+    "symbolLongEdge": 20,
+    "bodyCanvas": [
+      62,
+      63
+    ]
+  },
+  {
+    "id": "kimi-plus-72",
+    "character": "kimi",
+    "display": "Kimi Plus 72档",
+    "scheme": "AI Family avoidance v1.3.1 - kimi plus 72",
+    "edition": "plus",
+    "size": 72,
+    "symbolLongEdge": 22,
+    "bodyCanvas": [
+      69,
+      70
+    ]
+  },
+  {
+    "id": "kimi-plus-96",
+    "character": "kimi",
+    "display": "Kimi Plus 96档",
+    "scheme": "AI Family avoidance v1.3.1 - kimi plus 96",
+    "edition": "plus",
+    "size": 96,
+    "symbolLongEdge": 24,
+    "bodyCanvas": [
+      90,
+      91
+    ]
+  },
+  {
+    "id": "kimi-plus-128",
+    "character": "kimi",
+    "display": "Kimi Plus 128档",
+    "scheme": "AI Family avoidance v1.3.1 - kimi plus 128",
+    "edition": "plus",
+    "size": 128,
+    "symbolLongEdge": 28,
+    "bodyCanvas": [
+      118,
+      120
+    ]
+  },
+  {
+    "id": "kimi-plus-256",
+    "character": "kimi",
+    "display": "Kimi Plus 256档",
+    "scheme": "AI Family avoidance v1.3.1 - kimi plus 256",
+    "edition": "plus",
+    "size": 256,
+    "symbolLongEdge": 30,
+    "bodyCanvas": [
+      228,
+      231
+    ]
+  }
+]
