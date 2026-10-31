@@ -1,0 +1,54 @@
+{
+  "version": "v1.3.2",
+  "kind": "non-avoidance",
+  "installation": {
+    "name": "kimi-cursors-non-avoidance-v1.3.2.zip",
+    "bytes": 44183997,
+    "sha256": "4c9ccf0fffa1cf290c3c6bc11dd7e6ad7b34c45e195f4e86518b5668e67cbf65",
+    "members": 2039
+  },
+  "editable_source": {
+    "name": "kimi-cursors-non-avoidance-source-v1.3.2.zip",
+    "bytes": 270945,
+    "sha256": "78b466c0927499668d24d4a9d032132d2ab5d1a7d3ff3fd6e9082455ecdb2df7",
+    "members": 34,
+    "copied_source_members": 31
+  },
+  "runtime_identity": {
+    "runtime/AICursorFamilyOriginalR1.exe": "48ec1b43be830981062eccf2fecbd25b8ee167b6e797906b8958030bafdf26be",
+    "control.ps1": "ec8dd65c9f3b6ca76d281365a1f1ef3b4f86ba731f30c6f389e5fd3cbc8eeb89",
+    "ControlNative.cs": "462a58b46ca185a2681786f9724f575ce31c4cf187d11b4cffce8dfcab012b36"
+  },
+  "rc1_equivalence": {
+    "version": "v1.3.2",
+    "tested_rc1_zip_name": "kimi-cursors-non-avoidance-v1.3.2-rc1.zip",
+    "tested_rc1_sha256": "f9d9843268289ee8c3110a3ad1e51227ac663cdd57fe6931c7fd7d5d2277d8d2",
+    "runtime_identity": {
+      "runtime/AICursorFamilyOriginalR1.exe": "48ec1b43be830981062eccf2fecbd25b8ee167b6e797906b8958030bafdf26be",
+      "control.ps1": "ec8dd65c9f3b6ca76d281365a1f1ef3b4f86ba731f30c6f389e5fd3cbc8eeb89",
+      "ControlNative.cs": "462a58b46ca185a2681786f9724f575ce31c4cf187d11b4cffce8dfcab012b36"
+    },
+    "unchanged_existing_members": 2033,
+    "unchanged_media_members": 1989,
+    "unchanged_profile_manifests": 13,
+    "unchanged_cmd_members": 15,
+    "modified_existing_members": [
+      "README.md",
+      "技术说明.md",
+      "runtime/characters.json",
+      "payload-hashes.json"
+    ],
+    "added_members": [
+      "VALIDATION.md",
+      "release-equivalence.json"
+    ],
+    "deleted_members": [],
+    "configuration_only_difference": "characters.json scheme string replaces v1.3.2-rc1 with v1.3.2; all other fields and profile order unchanged",
+    "qa_basis": "Accepted local RC1 representative VM tests with documented Win11 bootStop boundary; not a new full runtime matrix."
+  },
+  "avoidance": {
+    "updated": false,
+    "version": "v1.3.1",
+    "download_url": "https://github.com/nibushiyigeren123-bot/kimi-cursors/releases/download/v1.3.1/kimi-cursors-avoidance-v1.3.1.zip"
+  }
+}
