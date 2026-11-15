@@ -1,0 +1,3079 @@
+[
+  {
+    "role": "Arrow",
+    "frames": 8,
+    "frame_ms": 200.0,
+    "jiffies": 12,
+    "hotspot": [
+      0,
+      1
+    ],
+    "symbol_hotspot": [
+      1,
+      2
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      32,
+      32
+    ],
+    "body_directory": "kimi-original-32/Arrow",
+    "body_hashes": [
+      "c07033c8f7e1bd679d61de49b934da961e40eee4a3ef246cec2d0d99a663b905",
+      "e6197d62f1ee8d4a238f83771cf2d7c29fcf94241385426e2969ebd0d106cc3d",
+      "3f585e1c3a3f84a69c86c425396ea3ceb3da664704b8cfc791761dc3f0eee849",
+      "e6197d62f1ee8d4a238f83771cf2d7c29fcf94241385426e2969ebd0d106cc3d",
+      "a10c1ffb523a2ac63cc1056b9e6ee65735b9a7a942dddb4f556a8dbd00bf29d0",
+      "cf17b97b44d9bb1ad5a21191c7b1e9dab58bec26df46feba00546630f749978a",
+      "56931fa23723e7caa8614b8aa1b7b85b5ebcc0a0d06e9241a33350e82c51a485",
+      "cf17b97b44d9bb1ad5a21191c7b1e9dab58bec26df46feba00546630f749978a"
+    ],
+    "character": "kimi",
+    "edition": "original",
+    "logical_size": 32,
+    "frozen_frame_sha256": [
+      "df8ebc2b8212eaaa1e2873a3306e7d761ced130a6d528d2cef89838254dc8e22",
+      "620cb0a4c15b720a0b4556557026e80d5a07bc288028de3997ef57d09c6a5a6f",
+      "36f90638721a6ac4f59d38fff530b40ce6f5de9adbcf5acce908131fc6195e55",
+      "620cb0a4c15b720a0b4556557026e80d5a07bc288028de3997ef57d09c6a5a6f",
+      "08adc2c77e9a767dbb9e33ebc9e53c2ac5bb242cfcc693b877cd4fd962003ae6",
+      "ed9fd539a8827e258d6685e9974851eca67250aa44d8d769787768b3af612d0d",
+      "eea494f290e3368d752aac0f6152fa3f3c4831644a5b2160f9ee8b9aaa330d95",
+      "ed9fd539a8827e258d6685e9974851eca67250aa44d8d769787768b3af612d0d"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Arrow-00.png",
+        "frozen_sha256": "df8ebc2b8212eaaa1e2873a3306e7d761ced130a6d528d2cef89838254dc8e22",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "c07033c8f7e1bd679d61de49b934da961e40eee4a3ef246cec2d0d99a663b905",
+        "symbol_rgba_sha256": "86092c1c1f8fe4cca3967a6d21e3de25bf258ae939ca16a496d78a004813d781",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 3,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Arrow-01.png",
+        "frozen_sha256": "620cb0a4c15b720a0b4556557026e80d5a07bc288028de3997ef57d09c6a5a6f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "e6197d62f1ee8d4a238f83771cf2d7c29fcf94241385426e2969ebd0d106cc3d",
+        "symbol_rgba_sha256": "86092c1c1f8fe4cca3967a6d21e3de25bf258ae939ca16a496d78a004813d781",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 5,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Arrow-02.png",
+        "frozen_sha256": "36f90638721a6ac4f59d38fff530b40ce6f5de9adbcf5acce908131fc6195e55",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "3f585e1c3a3f84a69c86c425396ea3ceb3da664704b8cfc791761dc3f0eee849",
+        "symbol_rgba_sha256": "86092c1c1f8fe4cca3967a6d21e3de25bf258ae939ca16a496d78a004813d781",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 8,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Arrow-03.png",
+        "frozen_sha256": "620cb0a4c15b720a0b4556557026e80d5a07bc288028de3997ef57d09c6a5a6f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "e6197d62f1ee8d4a238f83771cf2d7c29fcf94241385426e2969ebd0d106cc3d",
+        "symbol_rgba_sha256": "86092c1c1f8fe4cca3967a6d21e3de25bf258ae939ca16a496d78a004813d781",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 5,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Arrow-04.png",
+        "frozen_sha256": "08adc2c77e9a767dbb9e33ebc9e53c2ac5bb242cfcc693b877cd4fd962003ae6",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "a10c1ffb523a2ac63cc1056b9e6ee65735b9a7a942dddb4f556a8dbd00bf29d0",
+        "symbol_rgba_sha256": "86092c1c1f8fe4cca3967a6d21e3de25bf258ae939ca16a496d78a004813d781",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 3,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Arrow-05.png",
+        "frozen_sha256": "ed9fd539a8827e258d6685e9974851eca67250aa44d8d769787768b3af612d0d",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "cf17b97b44d9bb1ad5a21191c7b1e9dab58bec26df46feba00546630f749978a",
+        "symbol_rgba_sha256": "86092c1c1f8fe4cca3967a6d21e3de25bf258ae939ca16a496d78a004813d781",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 3,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Arrow-06.png",
+        "frozen_sha256": "eea494f290e3368d752aac0f6152fa3f3c4831644a5b2160f9ee8b9aaa330d95",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "56931fa23723e7caa8614b8aa1b7b85b5ebcc0a0d06e9241a33350e82c51a485",
+        "symbol_rgba_sha256": "86092c1c1f8fe4cca3967a6d21e3de25bf258ae939ca16a496d78a004813d781",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 4,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Arrow-07.png",
+        "frozen_sha256": "ed9fd539a8827e258d6685e9974851eca67250aa44d8d769787768b3af612d0d",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "cf17b97b44d9bb1ad5a21191c7b1e9dab58bec26df46feba00546630f749978a",
+        "symbol_rgba_sha256": "86092c1c1f8fe4cca3967a6d21e3de25bf258ae939ca16a496d78a004813d781",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 3,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      10,
+      12
+    ]
+  },
+  {
+    "role": "Help",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      0,
+      1
+    ],
+    "symbol_hotspot": [
+      1,
+      2
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      32,
+      32
+    ],
+    "body_directory": "kimi-original-32/Help",
+    "body_hashes": [
+      "f3d407089745ddc5e9b15b1f794dfe9b40f91d16b19f4e8bb84572689c1ef72e",
+      "163d695e5cf377048ddfbb50a648c67a643be10ff063673a3cfcc96e78cf482e",
+      "9c99b99a763553376c101eb8f1dd71a44fbb18a595b440730787c0338895ee2e",
+      "163d695e5cf377048ddfbb50a648c67a643be10ff063673a3cfcc96e78cf482e",
+      "93a0b53c823a3bb3a922a5f0bc0220fc83d71274ac75debf0680ef8f968207ea",
+      "e79c44ea0e02e42c961cf4eb5c8ede077504945fd0042ecad98403e5f8f0743a",
+      "8b3d71d40ea61ed7e9ddf8b666b98692c2d9b8b2f3c4edf463045fa319bd4893",
+      "e79c44ea0e02e42c961cf4eb5c8ede077504945fd0042ecad98403e5f8f0743a"
+    ],
+    "character": "kimi",
+    "edition": "original",
+    "logical_size": 32,
+    "frozen_frame_sha256": [
+      "b8144183ae4c9eaf6d9a4542075cf0a7b6d33a0177a78171bc44684c621ee80a",
+      "b881c48a7d060ac2069a3b779c4b048a106adc880a68b4393ee2cd7b262044fd",
+      "5f6b09f1dff66650691c50f1c95062c2c3bc6b7a8a09606160ec998ed6559958",
+      "b881c48a7d060ac2069a3b779c4b048a106adc880a68b4393ee2cd7b262044fd",
+      "5160b64b55b4ef506bd827c74e93fef50c4cb78708ee83ad3597612957c27939",
+      "68972bb9b5e029100f98abb91f097d795d9190007a66998c2a403c2ee0481ffe",
+      "d0a929ecb1de0474ff9ab64a1492bf8482766b6b945d6dadb5caecc767ce3f43",
+      "68972bb9b5e029100f98abb91f097d795d9190007a66998c2a403c2ee0481ffe"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Help-00.png",
+        "frozen_sha256": "b8144183ae4c9eaf6d9a4542075cf0a7b6d33a0177a78171bc44684c621ee80a",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "f3d407089745ddc5e9b15b1f794dfe9b40f91d16b19f4e8bb84572689c1ef72e",
+        "symbol_rgba_sha256": "ae6ce189874d4bbc5ea9e0ceddaaed0fce2716f07d5f556b5c87597b71c0f14b",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 10,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Help-01.png",
+        "frozen_sha256": "b881c48a7d060ac2069a3b779c4b048a106adc880a68b4393ee2cd7b262044fd",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "163d695e5cf377048ddfbb50a648c67a643be10ff063673a3cfcc96e78cf482e",
+        "symbol_rgba_sha256": "ae6ce189874d4bbc5ea9e0ceddaaed0fce2716f07d5f556b5c87597b71c0f14b",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 11,
+        "separate_layers_max_channel_delta": 169,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Help-02.png",
+        "frozen_sha256": "5f6b09f1dff66650691c50f1c95062c2c3bc6b7a8a09606160ec998ed6559958",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "9c99b99a763553376c101eb8f1dd71a44fbb18a595b440730787c0338895ee2e",
+        "symbol_rgba_sha256": "ae6ce189874d4bbc5ea9e0ceddaaed0fce2716f07d5f556b5c87597b71c0f14b",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 11,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Help-03.png",
+        "frozen_sha256": "b881c48a7d060ac2069a3b779c4b048a106adc880a68b4393ee2cd7b262044fd",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "163d695e5cf377048ddfbb50a648c67a643be10ff063673a3cfcc96e78cf482e",
+        "symbol_rgba_sha256": "ae6ce189874d4bbc5ea9e0ceddaaed0fce2716f07d5f556b5c87597b71c0f14b",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 11,
+        "separate_layers_max_channel_delta": 169,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Help-04.png",
+        "frozen_sha256": "5160b64b55b4ef506bd827c74e93fef50c4cb78708ee83ad3597612957c27939",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "93a0b53c823a3bb3a922a5f0bc0220fc83d71274ac75debf0680ef8f968207ea",
+        "symbol_rgba_sha256": "ae6ce189874d4bbc5ea9e0ceddaaed0fce2716f07d5f556b5c87597b71c0f14b",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 10,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Help-05.png",
+        "frozen_sha256": "68972bb9b5e029100f98abb91f097d795d9190007a66998c2a403c2ee0481ffe",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "e79c44ea0e02e42c961cf4eb5c8ede077504945fd0042ecad98403e5f8f0743a",
+        "symbol_rgba_sha256": "ae6ce189874d4bbc5ea9e0ceddaaed0fce2716f07d5f556b5c87597b71c0f14b",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 10,
+        "separate_layers_max_channel_delta": 127,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Help-06.png",
+        "frozen_sha256": "d0a929ecb1de0474ff9ab64a1492bf8482766b6b945d6dadb5caecc767ce3f43",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8b3d71d40ea61ed7e9ddf8b666b98692c2d9b8b2f3c4edf463045fa319bd4893",
+        "symbol_rgba_sha256": "ae6ce189874d4bbc5ea9e0ceddaaed0fce2716f07d5f556b5c87597b71c0f14b",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 12,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Help-07.png",
+        "frozen_sha256": "68972bb9b5e029100f98abb91f097d795d9190007a66998c2a403c2ee0481ffe",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "e79c44ea0e02e42c961cf4eb5c8ede077504945fd0042ecad98403e5f8f0743a",
+        "symbol_rgba_sha256": "ae6ce189874d4bbc5ea9e0ceddaaed0fce2716f07d5f556b5c87597b71c0f14b",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 10,
+        "separate_layers_max_channel_delta": 127,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      12,
+      10
+    ]
+  },
+  {
+    "role": "AppStarting",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      0,
+      1
+    ],
+    "symbol_hotspot": [
+      1,
+      2
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      32,
+      32
+    ],
+    "body_directory": "kimi-original-32/AppStarting",
+    "body_hashes": [
+      "529cb7bcc4d651fe2c92d94eb6b9759e4f5c4f4a52aca4f0e3788c713b3b40c1",
+      "dba23fac0f7fc2f8a04aaaa62bbadce8d03914659b776b22e9decde31d560cda",
+      "8e896324a9452e86fab2a4a6996e7954ec660bbd73e26e3290910bfed9afd490",
+      "dba23fac0f7fc2f8a04aaaa62bbadce8d03914659b776b22e9decde31d560cda",
+      "2532d36606bd26ab88e538b1e99b6148cf55eb4d450ac355398229a85e068523",
+      "ac37413fc67d39522e3d68de3958825c6bdb79a5bac4d9ad1d14d553674341a2",
+      "3bd80cd60f93ad05eba79e3b8fd745b4b0f3cddce65b485fc9360442b4f0882c",
+      "ac37413fc67d39522e3d68de3958825c6bdb79a5bac4d9ad1d14d553674341a2"
+    ],
+    "character": "kimi",
+    "edition": "original",
+    "logical_size": 32,
+    "frozen_frame_sha256": [
+      "15b52d3cb80536ddce69ac84bd17c24c0e6890a083548381881fea40609679d4",
+      "fa36d1dea96fb7eab7237c8f786ec55da0a33e44ed97190d84d6e1746ec39266",
+      "7e48be6dec96928b29c13f2c7153c4b695672891695544aba7582822acb3bed5",
+      "4a390123bd655b30408c4bff69497c8200344f78a8daeeaf3941be532b969020",
+      "51b9a1d2f5f66cc886557dd1b49ac4b899c6d6d0fbb530a382c8e5c2935c17ef",
+      "dcfc2f3186ca6d960e2cb49fe07c4e3b7f065412e43cdd66a5c8413d7298af28",
+      "de5f5ef3537e452663fa849b3a90740a5ed4678c0a23ad68d8ca97b4b30b5841",
+      "6a682906a231791e973bb82ee6d67261ed732a7025607f6fad695a4fb6a5f160"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\AppStarting-00.png",
+        "frozen_sha256": "15b52d3cb80536ddce69ac84bd17c24c0e6890a083548381881fea40609679d4",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "529cb7bcc4d651fe2c92d94eb6b9759e4f5c4f4a52aca4f0e3788c713b3b40c1",
+        "symbol_rgba_sha256": "8dc616589acd19b10b7bd3a6ecbd8653b6035835360b6d9242bce4c820b8d854",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\AppStarting-01.png",
+        "frozen_sha256": "fa36d1dea96fb7eab7237c8f786ec55da0a33e44ed97190d84d6e1746ec39266",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "dba23fac0f7fc2f8a04aaaa62bbadce8d03914659b776b22e9decde31d560cda",
+        "symbol_rgba_sha256": "e06fea8a02afc6b6ff19f8134ae7b3148a7c5361456b0b2ec964db8c24a8b65a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 3,
+        "separate_layers_max_channel_delta": 1,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\AppStarting-02.png",
+        "frozen_sha256": "7e48be6dec96928b29c13f2c7153c4b695672891695544aba7582822acb3bed5",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8e896324a9452e86fab2a4a6996e7954ec660bbd73e26e3290910bfed9afd490",
+        "symbol_rgba_sha256": "74a11e9c41f5f2bc684f5bba42f067e3e7462e87bbe919466cc756c33c565bee",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 2,
+        "separate_layers_max_channel_delta": 127,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\AppStarting-03.png",
+        "frozen_sha256": "4a390123bd655b30408c4bff69497c8200344f78a8daeeaf3941be532b969020",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "dba23fac0f7fc2f8a04aaaa62bbadce8d03914659b776b22e9decde31d560cda",
+        "symbol_rgba_sha256": "233dee0e81fa2bf57ceee35d2268ef28d90f3ac2da294c71a72e2ad32e832bb4",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 4,
+        "separate_layers_max_channel_delta": 127,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\AppStarting-04.png",
+        "frozen_sha256": "51b9a1d2f5f66cc886557dd1b49ac4b899c6d6d0fbb530a382c8e5c2935c17ef",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "2532d36606bd26ab88e538b1e99b6148cf55eb4d450ac355398229a85e068523",
+        "symbol_rgba_sha256": "6cac63b64188e69712b1b716785da79d3d026b74584e53140e1c33b56641b42d",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\AppStarting-05.png",
+        "frozen_sha256": "dcfc2f3186ca6d960e2cb49fe07c4e3b7f065412e43cdd66a5c8413d7298af28",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "ac37413fc67d39522e3d68de3958825c6bdb79a5bac4d9ad1d14d553674341a2",
+        "symbol_rgba_sha256": "138efd981cc3ab62f6647ac0256021befbd932665024f4499453018fdb5ac9da",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\AppStarting-06.png",
+        "frozen_sha256": "de5f5ef3537e452663fa849b3a90740a5ed4678c0a23ad68d8ca97b4b30b5841",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "3bd80cd60f93ad05eba79e3b8fd745b4b0f3cddce65b485fc9360442b4f0882c",
+        "symbol_rgba_sha256": "02944291cc9b997ab4c5ae4f0247cd5ba562e96ee9321b2f0264cc4d12e35b84",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\AppStarting-07.png",
+        "frozen_sha256": "6a682906a231791e973bb82ee6d67261ed732a7025607f6fad695a4fb6a5f160",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "ac37413fc67d39522e3d68de3958825c6bdb79a5bac4d9ad1d14d553674341a2",
+        "symbol_rgba_sha256": "6cda79fc8520d7635baf93ff38dbd5d007a80e1fa9ea6a39315c42922cbbaa65",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      12,
+      10
+    ]
+  },
+  {
+    "role": "Wait",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      4,
+      4
+    ],
+    "symbol_hotspot": [
+      5,
+      5
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      32,
+      32
+    ],
+    "body_directory": "kimi-original-32/Wait",
+    "body_hashes": [
+      "bcc0edc53054a61efaf2b6ed0ce0c557842962d28dbf23916cd49eda310e64bd",
+      "acd873e9025a61b66dcd42d5657dd01972739f9880c251f5d39214836d9bf93b",
+      "55e21868303fe8a4ba4349058a65e0eb1164d4ea1af9b9a731cef5fac919d3d8",
+      "acd873e9025a61b66dcd42d5657dd01972739f9880c251f5d39214836d9bf93b",
+      "5911e3f50f02022d514884938d863e35501c8919162e95fe35561f85b4252a39",
+      "b0ab2dab2e9e819427be38c626e4bb4e10e24ab6e7e715af8df3e596d91b4242",
+      "c9db1449450fed4ae2328698af4baca8a0c749c62f86ffbce24109f8acd2184b",
+      "b0ab2dab2e9e819427be38c626e4bb4e10e24ab6e7e715af8df3e596d91b4242"
+    ],
+    "character": "kimi",
+    "edition": "original",
+    "logical_size": 32,
+    "frozen_frame_sha256": [
+      "f4f5d4885bbc6af7dcb2369b0371fba734cb7224647b1e24562a2791aa79d7dc",
+      "d8382a354d958b776fcf36aad9b615fe75f3be70451cd757e0cb629eba3a97d7",
+      "e5c893d5e8078e0134756662431012db7fd43a9a789b29c2e127a5b01e0437c4",
+      "35aeec610dc2807a6c6772ae68d8c8e796fa064f0c1be472299b238ba88a2062",
+      "a8801bf6e3ab041206ad50b37c178e2c8a743f0630844f61cce0b3ca30711743",
+      "f69c47fa330e8a866975ba5282ee540bb3e5f118b907b98ab22194ce91401ca1",
+      "b94ee1fd22c237a171f8261cb7308dfd40e3c8bea9d2411ca00c2b1b6ceda975",
+      "2ae462a1ba8d1b83826e0f2f0386d5549dfbacefae88400b50ec4d08f88a0e0f"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Wait-00.png",
+        "frozen_sha256": "f4f5d4885bbc6af7dcb2369b0371fba734cb7224647b1e24562a2791aa79d7dc",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "bcc0edc53054a61efaf2b6ed0ce0c557842962d28dbf23916cd49eda310e64bd",
+        "symbol_rgba_sha256": "afa2301214b26741744b254ac3382db6998e965e0c93405704885023d8b95318",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 15,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Wait-01.png",
+        "frozen_sha256": "d8382a354d958b776fcf36aad9b615fe75f3be70451cd757e0cb629eba3a97d7",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "acd873e9025a61b66dcd42d5657dd01972739f9880c251f5d39214836d9bf93b",
+        "symbol_rgba_sha256": "d11e2b91e97dc9a7d1dc9f20617d20b0d41bfd441eedbf93e602ca2e9e6c9dca",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 14,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Wait-02.png",
+        "frozen_sha256": "e5c893d5e8078e0134756662431012db7fd43a9a789b29c2e127a5b01e0437c4",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "55e21868303fe8a4ba4349058a65e0eb1164d4ea1af9b9a731cef5fac919d3d8",
+        "symbol_rgba_sha256": "5d5e8d9c07a016d1b71711c981273b77195a076bfa5f8addd7ce31814b83241b",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 15,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Wait-03.png",
+        "frozen_sha256": "35aeec610dc2807a6c6772ae68d8c8e796fa064f0c1be472299b238ba88a2062",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "acd873e9025a61b66dcd42d5657dd01972739f9880c251f5d39214836d9bf93b",
+        "symbol_rgba_sha256": "7fea5bab329be0b7d99c4ac0279e79fa776faab8796c90d42a91810f329dbd22",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 15,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Wait-04.png",
+        "frozen_sha256": "a8801bf6e3ab041206ad50b37c178e2c8a743f0630844f61cce0b3ca30711743",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "5911e3f50f02022d514884938d863e35501c8919162e95fe35561f85b4252a39",
+        "symbol_rgba_sha256": "f4c7766aaf746777fe59102bc07cb752a40ff17a350390ccf2ee85572bccfda3",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 16,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Wait-05.png",
+        "frozen_sha256": "f69c47fa330e8a866975ba5282ee540bb3e5f118b907b98ab22194ce91401ca1",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "b0ab2dab2e9e819427be38c626e4bb4e10e24ab6e7e715af8df3e596d91b4242",
+        "symbol_rgba_sha256": "f78a576103906abd376d47b69ee41e78807e2d6b4c3dd1893a6310c01b167484",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 17,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Wait-06.png",
+        "frozen_sha256": "b94ee1fd22c237a171f8261cb7308dfd40e3c8bea9d2411ca00c2b1b6ceda975",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "c9db1449450fed4ae2328698af4baca8a0c749c62f86ffbce24109f8acd2184b",
+        "symbol_rgba_sha256": "45e595dbf5285d74de644a69e1143494801703fc8261a8dd74656f270bde226e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 16,
+        "separate_layers_max_channel_delta": 254,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Wait-07.png",
+        "frozen_sha256": "2ae462a1ba8d1b83826e0f2f0386d5549dfbacefae88400b50ec4d08f88a0e0f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "b0ab2dab2e9e819427be38c626e4bb4e10e24ab6e7e715af8df3e596d91b4242",
+        "symbol_rgba_sha256": "961b355ff9c51a6419f6ba21eff48a953ce158a10557da77af2271ed9003de5f",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 17,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      12,
+      12
+    ]
+  },
+  {
+    "role": "Crosshair",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      4,
+      4
+    ],
+    "symbol_hotspot": [
+      5,
+      5
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      32,
+      32
+    ],
+    "body_directory": "kimi-original-32/Crosshair",
+    "body_hashes": [
+      "f3d407089745ddc5e9b15b1f794dfe9b40f91d16b19f4e8bb84572689c1ef72e",
+      "163d695e5cf377048ddfbb50a648c67a643be10ff063673a3cfcc96e78cf482e",
+      "9c99b99a763553376c101eb8f1dd71a44fbb18a595b440730787c0338895ee2e",
+      "163d695e5cf377048ddfbb50a648c67a643be10ff063673a3cfcc96e78cf482e",
+      "93a0b53c823a3bb3a922a5f0bc0220fc83d71274ac75debf0680ef8f968207ea",
+      "e79c44ea0e02e42c961cf4eb5c8ede077504945fd0042ecad98403e5f8f0743a",
+      "8b3d71d40ea61ed7e9ddf8b666b98692c2d9b8b2f3c4edf463045fa319bd4893",
+      "e79c44ea0e02e42c961cf4eb5c8ede077504945fd0042ecad98403e5f8f0743a"
+    ],
+    "character": "kimi",
+    "edition": "original",
+    "logical_size": 32,
+    "frozen_frame_sha256": [
+      "ec56006663b857428df630b3275dbb723b02a437fa25851b86db63d16f58932a",
+      "f0eb4920bb49ffd84b0c582182dde6849052455b5e43fa0662600c5d077851af",
+      "75c624c91d370fbad9c92618d36b0e51cfe4631e23038c76f5d206eb574bb666",
+      "f0eb4920bb49ffd84b0c582182dde6849052455b5e43fa0662600c5d077851af",
+      "39e2dd5610d5b04f1f16dbae5794fa64a66fa954a5146be2ff4e8f9490c66670",
+      "2d4175709ffb71a5fbe7c55d9ac1fc385819fd433c04a911ad211744bae8bc79",
+      "fac09df40aa9711cfdc71c0f292ad2ec9c06d390c939bc8cd61fd4b4a08babd0",
+      "2d4175709ffb71a5fbe7c55d9ac1fc385819fd433c04a911ad211744bae8bc79"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Crosshair-00.png",
+        "frozen_sha256": "ec56006663b857428df630b3275dbb723b02a437fa25851b86db63d16f58932a",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "f3d407089745ddc5e9b15b1f794dfe9b40f91d16b19f4e8bb84572689c1ef72e",
+        "symbol_rgba_sha256": "b3b2b17142d8e5105d35e90a5b6e0ea2718b1c3d76210ad2cd682027a57b34fa",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 15,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Crosshair-01.png",
+        "frozen_sha256": "f0eb4920bb49ffd84b0c582182dde6849052455b5e43fa0662600c5d077851af",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "163d695e5cf377048ddfbb50a648c67a643be10ff063673a3cfcc96e78cf482e",
+        "symbol_rgba_sha256": "b3b2b17142d8e5105d35e90a5b6e0ea2718b1c3d76210ad2cd682027a57b34fa",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 18,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Crosshair-02.png",
+        "frozen_sha256": "75c624c91d370fbad9c92618d36b0e51cfe4631e23038c76f5d206eb574bb666",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "9c99b99a763553376c101eb8f1dd71a44fbb18a595b440730787c0338895ee2e",
+        "symbol_rgba_sha256": "b3b2b17142d8e5105d35e90a5b6e0ea2718b1c3d76210ad2cd682027a57b34fa",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 14,
+        "separate_layers_max_channel_delta": 127,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Crosshair-03.png",
+        "frozen_sha256": "f0eb4920bb49ffd84b0c582182dde6849052455b5e43fa0662600c5d077851af",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "163d695e5cf377048ddfbb50a648c67a643be10ff063673a3cfcc96e78cf482e",
+        "symbol_rgba_sha256": "b3b2b17142d8e5105d35e90a5b6e0ea2718b1c3d76210ad2cd682027a57b34fa",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 18,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Crosshair-04.png",
+        "frozen_sha256": "39e2dd5610d5b04f1f16dbae5794fa64a66fa954a5146be2ff4e8f9490c66670",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "93a0b53c823a3bb3a922a5f0bc0220fc83d71274ac75debf0680ef8f968207ea",
+        "symbol_rgba_sha256": "b3b2b17142d8e5105d35e90a5b6e0ea2718b1c3d76210ad2cd682027a57b34fa",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 15,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Crosshair-05.png",
+        "frozen_sha256": "2d4175709ffb71a5fbe7c55d9ac1fc385819fd433c04a911ad211744bae8bc79",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "e79c44ea0e02e42c961cf4eb5c8ede077504945fd0042ecad98403e5f8f0743a",
+        "symbol_rgba_sha256": "b3b2b17142d8e5105d35e90a5b6e0ea2718b1c3d76210ad2cd682027a57b34fa",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 14,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Crosshair-06.png",
+        "frozen_sha256": "fac09df40aa9711cfdc71c0f292ad2ec9c06d390c939bc8cd61fd4b4a08babd0",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8b3d71d40ea61ed7e9ddf8b666b98692c2d9b8b2f3c4edf463045fa319bd4893",
+        "symbol_rgba_sha256": "b3b2b17142d8e5105d35e90a5b6e0ea2718b1c3d76210ad2cd682027a57b34fa",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 14,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Crosshair-07.png",
+        "frozen_sha256": "2d4175709ffb71a5fbe7c55d9ac1fc385819fd433c04a911ad211744bae8bc79",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "e79c44ea0e02e42c961cf4eb5c8ede077504945fd0042ecad98403e5f8f0743a",
+        "symbol_rgba_sha256": "b3b2b17142d8e5105d35e90a5b6e0ea2718b1c3d76210ad2cd682027a57b34fa",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 14,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      12,
+      12
+    ]
+  },
+  {
+    "role": "IBeam",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      2,
+      4
+    ],
+    "symbol_hotspot": [
+      3,
+      5
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      32,
+      32
+    ],
+    "body_directory": "kimi-original-32/IBeam",
+    "body_hashes": [
+      "bcc0edc53054a61efaf2b6ed0ce0c557842962d28dbf23916cd49eda310e64bd",
+      "acd873e9025a61b66dcd42d5657dd01972739f9880c251f5d39214836d9bf93b",
+      "55e21868303fe8a4ba4349058a65e0eb1164d4ea1af9b9a731cef5fac919d3d8",
+      "acd873e9025a61b66dcd42d5657dd01972739f9880c251f5d39214836d9bf93b",
+      "5911e3f50f02022d514884938d863e35501c8919162e95fe35561f85b4252a39",
+      "b0ab2dab2e9e819427be38c626e4bb4e10e24ab6e7e715af8df3e596d91b4242",
+      "c9db1449450fed4ae2328698af4baca8a0c749c62f86ffbce24109f8acd2184b",
+      "b0ab2dab2e9e819427be38c626e4bb4e10e24ab6e7e715af8df3e596d91b4242"
+    ],
+    "character": "kimi",
+    "edition": "original",
+    "logical_size": 32,
+    "frozen_frame_sha256": [
+      "cffb29a2267a7c293130e495a02654d12d8cc64d8e2cb1e7c3b3ac9cb51d5b28",
+      "33d3d846739b4e5fc6adae079126a93d6906acd9c26b8946c88dc6747f6df6ba",
+      "d0a0e4e2f3edbbfc5c1ba33814bd8c5c6ac3a575d5f99bc0ca0f66e70e057a4c",
+      "33d3d846739b4e5fc6adae079126a93d6906acd9c26b8946c88dc6747f6df6ba",
+      "e2555156d93cff5b0c97b4db0e1de59c5fae17331546727af31837c4982b82e2",
+      "a1b37493335ee952181f2cdb5481af6e6f21e291b68adf29c4d3a747296ff567",
+      "7f6afa677e3a61230419333202c48c0a1ec0cfdd1dc1ec19b733481282ada0cf",
+      "a1b37493335ee952181f2cdb5481af6e6f21e291b68adf29c4d3a747296ff567"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\IBeam-00.png",
+        "frozen_sha256": "cffb29a2267a7c293130e495a02654d12d8cc64d8e2cb1e7c3b3ac9cb51d5b28",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "bcc0edc53054a61efaf2b6ed0ce0c557842962d28dbf23916cd49eda310e64bd",
+        "symbol_rgba_sha256": "2295d1e99fc5ca458528c8606203aa5716cff1b8359910626c33985073bcdd62",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\IBeam-01.png",
+        "frozen_sha256": "33d3d846739b4e5fc6adae079126a93d6906acd9c26b8946c88dc6747f6df6ba",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "acd873e9025a61b66dcd42d5657dd01972739f9880c251f5d39214836d9bf93b",
+        "symbol_rgba_sha256": "2295d1e99fc5ca458528c8606203aa5716cff1b8359910626c33985073bcdd62",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\IBeam-02.png",
+        "frozen_sha256": "d0a0e4e2f3edbbfc5c1ba33814bd8c5c6ac3a575d5f99bc0ca0f66e70e057a4c",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "55e21868303fe8a4ba4349058a65e0eb1164d4ea1af9b9a731cef5fac919d3d8",
+        "symbol_rgba_sha256": "2295d1e99fc5ca458528c8606203aa5716cff1b8359910626c33985073bcdd62",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\IBeam-03.png",
+        "frozen_sha256": "33d3d846739b4e5fc6adae079126a93d6906acd9c26b8946c88dc6747f6df6ba",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "acd873e9025a61b66dcd42d5657dd01972739f9880c251f5d39214836d9bf93b",
+        "symbol_rgba_sha256": "2295d1e99fc5ca458528c8606203aa5716cff1b8359910626c33985073bcdd62",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\IBeam-04.png",
+        "frozen_sha256": "e2555156d93cff5b0c97b4db0e1de59c5fae17331546727af31837c4982b82e2",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "5911e3f50f02022d514884938d863e35501c8919162e95fe35561f85b4252a39",
+        "symbol_rgba_sha256": "2295d1e99fc5ca458528c8606203aa5716cff1b8359910626c33985073bcdd62",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\IBeam-05.png",
+        "frozen_sha256": "a1b37493335ee952181f2cdb5481af6e6f21e291b68adf29c4d3a747296ff567",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "b0ab2dab2e9e819427be38c626e4bb4e10e24ab6e7e715af8df3e596d91b4242",
+        "symbol_rgba_sha256": "2295d1e99fc5ca458528c8606203aa5716cff1b8359910626c33985073bcdd62",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\IBeam-06.png",
+        "frozen_sha256": "7f6afa677e3a61230419333202c48c0a1ec0cfdd1dc1ec19b733481282ada0cf",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "c9db1449450fed4ae2328698af4baca8a0c749c62f86ffbce24109f8acd2184b",
+        "symbol_rgba_sha256": "2295d1e99fc5ca458528c8606203aa5716cff1b8359910626c33985073bcdd62",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\IBeam-07.png",
+        "frozen_sha256": "a1b37493335ee952181f2cdb5481af6e6f21e291b68adf29c4d3a747296ff567",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "b0ab2dab2e9e819427be38c626e4bb4e10e24ab6e7e715af8df3e596d91b4242",
+        "symbol_rgba_sha256": "2295d1e99fc5ca458528c8606203aa5716cff1b8359910626c33985073bcdd62",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      8,
+      12
+    ]
+  },
+  {
+    "role": "NWPen",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      1,
+      8
+    ],
+    "symbol_hotspot": [
+      2,
+      9
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      32,
+      32
+    ],
+    "body_directory": "kimi-original-32/NWPen",
+    "body_hashes": [
+      "bcc0edc53054a61efaf2b6ed0ce0c557842962d28dbf23916cd49eda310e64bd",
+      "acd873e9025a61b66dcd42d5657dd01972739f9880c251f5d39214836d9bf93b",
+      "55e21868303fe8a4ba4349058a65e0eb1164d4ea1af9b9a731cef5fac919d3d8",
+      "acd873e9025a61b66dcd42d5657dd01972739f9880c251f5d39214836d9bf93b",
+      "5911e3f50f02022d514884938d863e35501c8919162e95fe35561f85b4252a39",
+      "b0ab2dab2e9e819427be38c626e4bb4e10e24ab6e7e715af8df3e596d91b4242",
+      "c9db1449450fed4ae2328698af4baca8a0c749c62f86ffbce24109f8acd2184b",
+      "b0ab2dab2e9e819427be38c626e4bb4e10e24ab6e7e715af8df3e596d91b4242"
+    ],
+    "character": "kimi",
+    "edition": "original",
+    "logical_size": 32,
+    "frozen_frame_sha256": [
+      "dac6e4ca04892e85c706391dadc00dc7148231635fe7667721be4b5991ea1b45",
+      "22cfc970c511e4c2e5162e14b16505bd1fed6114722c0af387de672f178307dc",
+      "875b6e97689d7038f6c9a437e47096730751606ee1679789e232fd155dcfdaa8",
+      "22cfc970c511e4c2e5162e14b16505bd1fed6114722c0af387de672f178307dc",
+      "64dbd3dfeef54b0eaca9ecb16880b366c10b40c75d5d3d97912526f58b11c165",
+      "d0613057437f3e12beb1dbac6c772dc1a1ccb932b807eae0517a9310d7876c2e",
+      "9ec1e60e8211fec3abe5e39a4690443bb36eaced5f81915f95d6e70be211a2c1",
+      "d0613057437f3e12beb1dbac6c772dc1a1ccb932b807eae0517a9310d7876c2e"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\NWPen-00.png",
+        "frozen_sha256": "dac6e4ca04892e85c706391dadc00dc7148231635fe7667721be4b5991ea1b45",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "bcc0edc53054a61efaf2b6ed0ce0c557842962d28dbf23916cd49eda310e64bd",
+        "symbol_rgba_sha256": "4c064b89dc343c5a3a8624ce6accb92ed16916cbba38e06898882ea2159547b6",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 5,
+        "separate_layers_max_channel_delta": 128,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\NWPen-01.png",
+        "frozen_sha256": "22cfc970c511e4c2e5162e14b16505bd1fed6114722c0af387de672f178307dc",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "acd873e9025a61b66dcd42d5657dd01972739f9880c251f5d39214836d9bf93b",
+        "symbol_rgba_sha256": "4c064b89dc343c5a3a8624ce6accb92ed16916cbba38e06898882ea2159547b6",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 6,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\NWPen-02.png",
+        "frozen_sha256": "875b6e97689d7038f6c9a437e47096730751606ee1679789e232fd155dcfdaa8",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "55e21868303fe8a4ba4349058a65e0eb1164d4ea1af9b9a731cef5fac919d3d8",
+        "symbol_rgba_sha256": "4c064b89dc343c5a3a8624ce6accb92ed16916cbba38e06898882ea2159547b6",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 5,
+        "separate_layers_max_channel_delta": 128,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\NWPen-03.png",
+        "frozen_sha256": "22cfc970c511e4c2e5162e14b16505bd1fed6114722c0af387de672f178307dc",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "acd873e9025a61b66dcd42d5657dd01972739f9880c251f5d39214836d9bf93b",
+        "symbol_rgba_sha256": "4c064b89dc343c5a3a8624ce6accb92ed16916cbba38e06898882ea2159547b6",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 6,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\NWPen-04.png",
+        "frozen_sha256": "64dbd3dfeef54b0eaca9ecb16880b366c10b40c75d5d3d97912526f58b11c165",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "5911e3f50f02022d514884938d863e35501c8919162e95fe35561f85b4252a39",
+        "symbol_rgba_sha256": "4c064b89dc343c5a3a8624ce6accb92ed16916cbba38e06898882ea2159547b6",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 5,
+        "separate_layers_max_channel_delta": 128,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\NWPen-05.png",
+        "frozen_sha256": "d0613057437f3e12beb1dbac6c772dc1a1ccb932b807eae0517a9310d7876c2e",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "b0ab2dab2e9e819427be38c626e4bb4e10e24ab6e7e715af8df3e596d91b4242",
+        "symbol_rgba_sha256": "4c064b89dc343c5a3a8624ce6accb92ed16916cbba38e06898882ea2159547b6",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 5,
+        "separate_layers_max_channel_delta": 84,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\NWPen-06.png",
+        "frozen_sha256": "9ec1e60e8211fec3abe5e39a4690443bb36eaced5f81915f95d6e70be211a2c1",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "c9db1449450fed4ae2328698af4baca8a0c749c62f86ffbce24109f8acd2184b",
+        "symbol_rgba_sha256": "4c064b89dc343c5a3a8624ce6accb92ed16916cbba38e06898882ea2159547b6",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 5,
+        "separate_layers_max_channel_delta": 128,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\NWPen-07.png",
+        "frozen_sha256": "d0613057437f3e12beb1dbac6c772dc1a1ccb932b807eae0517a9310d7876c2e",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "b0ab2dab2e9e819427be38c626e4bb4e10e24ab6e7e715af8df3e596d91b4242",
+        "symbol_rgba_sha256": "4c064b89dc343c5a3a8624ce6accb92ed16916cbba38e06898882ea2159547b6",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 5,
+        "separate_layers_max_channel_delta": 84,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      12,
+      12
+    ]
+  },
+  {
+    "role": "No",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      4,
+      4
+    ],
+    "symbol_hotspot": [
+      5,
+      5
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      32,
+      32
+    ],
+    "body_directory": "kimi-original-32/No",
+    "body_hashes": [
+      "e7e721d9b32c342acd094ba08df1b2f86ebf50175e0ab4aabf670983b2f926ad",
+      "e3ead4f17254b19c70c0791dce018a039c586a3c3866a40ed724a7a645fcaa52",
+      "1bf70f7f51e7c32535d10353478db4766e00d14e3fc791e40571a5da98643f7e",
+      "e3ead4f17254b19c70c0791dce018a039c586a3c3866a40ed724a7a645fcaa52",
+      "1230584fd62c979718c7c74c2b65fe9f6ccb9308e2e2d665e194def3f819deb3",
+      "8584d29917fe2205aadce7764cdb97294c4f6822f18fe0a8ee358d7d88419d52",
+      "c87ca2997172b25780150c6ba36c9f214929835b4054b6d5efa099f59eab4a7d",
+      "8584d29917fe2205aadce7764cdb97294c4f6822f18fe0a8ee358d7d88419d52"
+    ],
+    "character": "kimi",
+    "edition": "original",
+    "logical_size": 32,
+    "frozen_frame_sha256": [
+      "c575d9972143b564413e9cf099c007b10f55af9f058c31995f797e9223edcb4f",
+      "4ac15aa0f12dd512de9c15e5734cffa90eecc3e9fafff6b6041af9eedd9b8073",
+      "6f896bc9ef78c360227d12f394a2206903970cee5fa16caa98aa95888f6097e6",
+      "4ac15aa0f12dd512de9c15e5734cffa90eecc3e9fafff6b6041af9eedd9b8073",
+      "17815e7c83686400e7571cbea53d8c2d95b49ec8e2c2e2a117cce4279f6a3857",
+      "ed86ac6a906bca77aec49ce8c9c329e8cc5880bc07edb2d64080430139f10ac5",
+      "9754fefdf7fbe378f8e2a7afad4968f6223178e2baf1e286f30050c0e6996cf0",
+      "ed86ac6a906bca77aec49ce8c9c329e8cc5880bc07edb2d64080430139f10ac5"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\No-00.png",
+        "frozen_sha256": "c575d9972143b564413e9cf099c007b10f55af9f058c31995f797e9223edcb4f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "e7e721d9b32c342acd094ba08df1b2f86ebf50175e0ab4aabf670983b2f926ad",
+        "symbol_rgba_sha256": "164f00f6daaeca5542aaeb43033bbdc686ea55c08bec3edaccf80dfa7e11333f",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 37,
+        "separate_layers_max_channel_delta": 188,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\No-01.png",
+        "frozen_sha256": "4ac15aa0f12dd512de9c15e5734cffa90eecc3e9fafff6b6041af9eedd9b8073",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "e3ead4f17254b19c70c0791dce018a039c586a3c3866a40ed724a7a645fcaa52",
+        "symbol_rgba_sha256": "164f00f6daaeca5542aaeb43033bbdc686ea55c08bec3edaccf80dfa7e11333f",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 41,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\No-02.png",
+        "frozen_sha256": "6f896bc9ef78c360227d12f394a2206903970cee5fa16caa98aa95888f6097e6",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "1bf70f7f51e7c32535d10353478db4766e00d14e3fc791e40571a5da98643f7e",
+        "symbol_rgba_sha256": "164f00f6daaeca5542aaeb43033bbdc686ea55c08bec3edaccf80dfa7e11333f",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 42,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\No-03.png",
+        "frozen_sha256": "4ac15aa0f12dd512de9c15e5734cffa90eecc3e9fafff6b6041af9eedd9b8073",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "e3ead4f17254b19c70c0791dce018a039c586a3c3866a40ed724a7a645fcaa52",
+        "symbol_rgba_sha256": "164f00f6daaeca5542aaeb43033bbdc686ea55c08bec3edaccf80dfa7e11333f",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 41,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\No-04.png",
+        "frozen_sha256": "17815e7c83686400e7571cbea53d8c2d95b49ec8e2c2e2a117cce4279f6a3857",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "1230584fd62c979718c7c74c2b65fe9f6ccb9308e2e2d665e194def3f819deb3",
+        "symbol_rgba_sha256": "164f00f6daaeca5542aaeb43033bbdc686ea55c08bec3edaccf80dfa7e11333f",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 37,
+        "separate_layers_max_channel_delta": 188,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\No-05.png",
+        "frozen_sha256": "ed86ac6a906bca77aec49ce8c9c329e8cc5880bc07edb2d64080430139f10ac5",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8584d29917fe2205aadce7764cdb97294c4f6822f18fe0a8ee358d7d88419d52",
+        "symbol_rgba_sha256": "164f00f6daaeca5542aaeb43033bbdc686ea55c08bec3edaccf80dfa7e11333f",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 38,
+        "separate_layers_max_channel_delta": 188,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\No-06.png",
+        "frozen_sha256": "9754fefdf7fbe378f8e2a7afad4968f6223178e2baf1e286f30050c0e6996cf0",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "c87ca2997172b25780150c6ba36c9f214929835b4054b6d5efa099f59eab4a7d",
+        "symbol_rgba_sha256": "164f00f6daaeca5542aaeb43033bbdc686ea55c08bec3edaccf80dfa7e11333f",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 37,
+        "separate_layers_max_channel_delta": 188,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\No-07.png",
+        "frozen_sha256": "ed86ac6a906bca77aec49ce8c9c329e8cc5880bc07edb2d64080430139f10ac5",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8584d29917fe2205aadce7764cdb97294c4f6822f18fe0a8ee358d7d88419d52",
+        "symbol_rgba_sha256": "164f00f6daaeca5542aaeb43033bbdc686ea55c08bec3edaccf80dfa7e11333f",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 38,
+        "separate_layers_max_channel_delta": 188,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      12,
+      12
+    ]
+  },
+  {
+    "role": "SizeNS",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      2,
+      4
+    ],
+    "symbol_hotspot": [
+      3,
+      5
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      32,
+      32
+    ],
+    "body_directory": "kimi-original-32/SizeNS",
+    "body_hashes": [
+      "999e37e18ae77b1a0d235cb3a280f00db6a6bf7689503fa1c9509a27612f7ac3",
+      "aeea9d5d765c0db99ef5dcbcc9064b3bd164fafbe72873eedb1bd288e921eaa1",
+      "b520d4a4577bb86bbe091d4e6d4136451d2165049501ddc55ca3c55d61a6fa54",
+      "86e88d02d962de052893bf4ba9db0a59edbaf2e78ad15ff3ff91909c6c723b5c",
+      "08d6ec554963c28cc59a021c8da96c71dde0434385aec1ab370fe031412bf959",
+      "08bd813c12259469204a3e3909bafad8a1c61d9c4480e7c0d876211eba9af7e8",
+      "39290c369010fc8df919024f035095aa04eb1d2e599d6bfc45ac13c62d9481d0",
+      "6f85bc20b9fad062fa752b9295e38d71cf987e455cedf666bbcd50c623172509"
+    ],
+    "character": "kimi",
+    "edition": "original",
+    "logical_size": 32,
+    "frozen_frame_sha256": [
+      "e3203bad220b29fa64725f69b6b5a9acf806b7e8dcaf3652e33708726919a1e9",
+      "6db1380e7e1600a2fa68d7c447bd98dfe07414f38430c6335d37865c2b61be2e",
+      "6cc332f9e43505321f867ad647ac3522b4da29394ee5dace762a58d2ba40c488",
+      "c70a6033d78a50c05624ae578f6487ccd50c9ea3f9b98a69a7f9bf3e1af65dae",
+      "cf39fed046b20ba62caea6ea910591b9501c3381cc1d4b054c00d7975f29a7f8",
+      "7bcf9876c423251f763af171d7e2917df2b17c82c9c2f140497af77525c0fe58",
+      "2b4bd2562d2fb1cfc587cfc0874065018f12260be02793a5905193032b94864c",
+      "d4621e3ecbb224dcf66bcb25a68e8a135b59de822fa3448024c7ec6c32859c3f"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNS-00.png",
+        "frozen_sha256": "e3203bad220b29fa64725f69b6b5a9acf806b7e8dcaf3652e33708726919a1e9",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "999e37e18ae77b1a0d235cb3a280f00db6a6bf7689503fa1c9509a27612f7ac3",
+        "symbol_rgba_sha256": "f673d0753e7dc7565a87a6d96051d01008c5565d992afa0939cfebb1559bbf14",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNS-01.png",
+        "frozen_sha256": "6db1380e7e1600a2fa68d7c447bd98dfe07414f38430c6335d37865c2b61be2e",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "aeea9d5d765c0db99ef5dcbcc9064b3bd164fafbe72873eedb1bd288e921eaa1",
+        "symbol_rgba_sha256": "f673d0753e7dc7565a87a6d96051d01008c5565d992afa0939cfebb1559bbf14",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNS-02.png",
+        "frozen_sha256": "6cc332f9e43505321f867ad647ac3522b4da29394ee5dace762a58d2ba40c488",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "b520d4a4577bb86bbe091d4e6d4136451d2165049501ddc55ca3c55d61a6fa54",
+        "symbol_rgba_sha256": "f673d0753e7dc7565a87a6d96051d01008c5565d992afa0939cfebb1559bbf14",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNS-03.png",
+        "frozen_sha256": "c70a6033d78a50c05624ae578f6487ccd50c9ea3f9b98a69a7f9bf3e1af65dae",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "86e88d02d962de052893bf4ba9db0a59edbaf2e78ad15ff3ff91909c6c723b5c",
+        "symbol_rgba_sha256": "f673d0753e7dc7565a87a6d96051d01008c5565d992afa0939cfebb1559bbf14",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNS-04.png",
+        "frozen_sha256": "cf39fed046b20ba62caea6ea910591b9501c3381cc1d4b054c00d7975f29a7f8",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "08d6ec554963c28cc59a021c8da96c71dde0434385aec1ab370fe031412bf959",
+        "symbol_rgba_sha256": "f673d0753e7dc7565a87a6d96051d01008c5565d992afa0939cfebb1559bbf14",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNS-05.png",
+        "frozen_sha256": "7bcf9876c423251f763af171d7e2917df2b17c82c9c2f140497af77525c0fe58",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "08bd813c12259469204a3e3909bafad8a1c61d9c4480e7c0d876211eba9af7e8",
+        "symbol_rgba_sha256": "f673d0753e7dc7565a87a6d96051d01008c5565d992afa0939cfebb1559bbf14",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNS-06.png",
+        "frozen_sha256": "2b4bd2562d2fb1cfc587cfc0874065018f12260be02793a5905193032b94864c",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "39290c369010fc8df919024f035095aa04eb1d2e599d6bfc45ac13c62d9481d0",
+        "symbol_rgba_sha256": "f673d0753e7dc7565a87a6d96051d01008c5565d992afa0939cfebb1559bbf14",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNS-07.png",
+        "frozen_sha256": "d4621e3ecbb224dcf66bcb25a68e8a135b59de822fa3448024c7ec6c32859c3f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "6f85bc20b9fad062fa752b9295e38d71cf987e455cedf666bbcd50c623172509",
+        "symbol_rgba_sha256": "f673d0753e7dc7565a87a6d96051d01008c5565d992afa0939cfebb1559bbf14",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      6,
+      12
+    ]
+  },
+  {
+    "role": "SizeWE",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      4,
+      2
+    ],
+    "symbol_hotspot": [
+      5,
+      3
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      32,
+      32
+    ],
+    "body_directory": "kimi-original-32/SizeWE",
+    "body_hashes": [
+      "0c769103c62cf0e6f855346a5b7242f1a5d5d06fffd2d1e3dcef0a90f01c365c",
+      "ba957ed11e1bbb1e845b9448789942ac96f3900004dcd55e6ec9d2c0f344cbe6",
+      "8cc4c2605c909279047594d7c5092b4f248e1e642030efef96b2c684db67d28b",
+      "ba957ed11e1bbb1e845b9448789942ac96f3900004dcd55e6ec9d2c0f344cbe6",
+      "475467933f9ed64ca2f830cdf4164c18db344ea574bc0380062239d26a46cf39",
+      "4e14c595ed666b547c6e1a1318c2c3e6e2351b2f5155ef08edbc5361ad89c0df",
+      "fd4b372c09702f8c93f4f665b338dc28b37f5b999cb37cfc318f9253a9106a88",
+      "4e14c595ed666b547c6e1a1318c2c3e6e2351b2f5155ef08edbc5361ad89c0df"
+    ],
+    "character": "kimi",
+    "edition": "original",
+    "logical_size": 32,
+    "frozen_frame_sha256": [
+      "487325bb7b072f6ddbe91ad62756030962a646a29f0d012d544bb7b3e5e93734",
+      "826ef9f0fb2cb6205394f76d8f576be373e4485b735ea73c6c437a8ddce0a98a",
+      "8a0fd45b0f0616df425043534d0ab9b20034ad99493c2e40986960535a779444",
+      "826ef9f0fb2cb6205394f76d8f576be373e4485b735ea73c6c437a8ddce0a98a",
+      "e56ceccf7063665253ed1e393eee8ee8f28d0d9c0094c19abe0e8f11cc483432",
+      "f23239751bab279ebbe302dfdecaa50b07311c010f4252e78b8fca3816b84b6f",
+      "64fb95d43fdcfea3560a522386df5b8bdf162a625b29b274150c8e733c85abc3",
+      "f23239751bab279ebbe302dfdecaa50b07311c010f4252e78b8fca3816b84b6f"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeWE-00.png",
+        "frozen_sha256": "487325bb7b072f6ddbe91ad62756030962a646a29f0d012d544bb7b3e5e93734",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "0c769103c62cf0e6f855346a5b7242f1a5d5d06fffd2d1e3dcef0a90f01c365c",
+        "symbol_rgba_sha256": "e85535e5684c41fd169a9b73b17f7cbb28882fa52b5fe539bda2300f2575885c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 1,
+        "separate_layers_max_channel_delta": 1,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeWE-01.png",
+        "frozen_sha256": "826ef9f0fb2cb6205394f76d8f576be373e4485b735ea73c6c437a8ddce0a98a",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "ba957ed11e1bbb1e845b9448789942ac96f3900004dcd55e6ec9d2c0f344cbe6",
+        "symbol_rgba_sha256": "e85535e5684c41fd169a9b73b17f7cbb28882fa52b5fe539bda2300f2575885c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeWE-02.png",
+        "frozen_sha256": "8a0fd45b0f0616df425043534d0ab9b20034ad99493c2e40986960535a779444",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8cc4c2605c909279047594d7c5092b4f248e1e642030efef96b2c684db67d28b",
+        "symbol_rgba_sha256": "e85535e5684c41fd169a9b73b17f7cbb28882fa52b5fe539bda2300f2575885c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeWE-03.png",
+        "frozen_sha256": "826ef9f0fb2cb6205394f76d8f576be373e4485b735ea73c6c437a8ddce0a98a",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "ba957ed11e1bbb1e845b9448789942ac96f3900004dcd55e6ec9d2c0f344cbe6",
+        "symbol_rgba_sha256": "e85535e5684c41fd169a9b73b17f7cbb28882fa52b5fe539bda2300f2575885c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeWE-04.png",
+        "frozen_sha256": "e56ceccf7063665253ed1e393eee8ee8f28d0d9c0094c19abe0e8f11cc483432",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "475467933f9ed64ca2f830cdf4164c18db344ea574bc0380062239d26a46cf39",
+        "symbol_rgba_sha256": "e85535e5684c41fd169a9b73b17f7cbb28882fa52b5fe539bda2300f2575885c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 1,
+        "separate_layers_max_channel_delta": 1,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeWE-05.png",
+        "frozen_sha256": "f23239751bab279ebbe302dfdecaa50b07311c010f4252e78b8fca3816b84b6f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "4e14c595ed666b547c6e1a1318c2c3e6e2351b2f5155ef08edbc5361ad89c0df",
+        "symbol_rgba_sha256": "e85535e5684c41fd169a9b73b17f7cbb28882fa52b5fe539bda2300f2575885c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeWE-06.png",
+        "frozen_sha256": "64fb95d43fdcfea3560a522386df5b8bdf162a625b29b274150c8e733c85abc3",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "fd4b372c09702f8c93f4f665b338dc28b37f5b999cb37cfc318f9253a9106a88",
+        "symbol_rgba_sha256": "e85535e5684c41fd169a9b73b17f7cbb28882fa52b5fe539bda2300f2575885c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeWE-07.png",
+        "frozen_sha256": "f23239751bab279ebbe302dfdecaa50b07311c010f4252e78b8fca3816b84b6f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "4e14c595ed666b547c6e1a1318c2c3e6e2351b2f5155ef08edbc5361ad89c0df",
+        "symbol_rgba_sha256": "e85535e5684c41fd169a9b73b17f7cbb28882fa52b5fe539bda2300f2575885c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      12,
+      6
+    ]
+  },
+  {
+    "role": "SizeNWSE",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      4,
+      4
+    ],
+    "symbol_hotspot": [
+      5,
+      5
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      32,
+      32
+    ],
+    "body_directory": "kimi-original-32/SizeNWSE",
+    "body_hashes": [
+      "0c769103c62cf0e6f855346a5b7242f1a5d5d06fffd2d1e3dcef0a90f01c365c",
+      "ba957ed11e1bbb1e845b9448789942ac96f3900004dcd55e6ec9d2c0f344cbe6",
+      "8cc4c2605c909279047594d7c5092b4f248e1e642030efef96b2c684db67d28b",
+      "ba957ed11e1bbb1e845b9448789942ac96f3900004dcd55e6ec9d2c0f344cbe6",
+      "475467933f9ed64ca2f830cdf4164c18db344ea574bc0380062239d26a46cf39",
+      "4e14c595ed666b547c6e1a1318c2c3e6e2351b2f5155ef08edbc5361ad89c0df",
+      "fd4b372c09702f8c93f4f665b338dc28b37f5b999cb37cfc318f9253a9106a88",
+      "4e14c595ed666b547c6e1a1318c2c3e6e2351b2f5155ef08edbc5361ad89c0df"
+    ],
+    "character": "kimi",
+    "edition": "original",
+    "logical_size": 32,
+    "frozen_frame_sha256": [
+      "5dd7069e4c314a7e6d2d88d6d6da6a531c09ca0c497b006c54cabb05d85f4b4c",
+      "724437c094861207111e82be530b18f34701b65910bbf56bec7e0805fdb02ef2",
+      "95833e3b45dc099ae3e58985e514e206803d47688cecbaf81e674f508620114b",
+      "724437c094861207111e82be530b18f34701b65910bbf56bec7e0805fdb02ef2",
+      "0551976ab2308bfc2e55a9183093565feca2297ddeefe557cabe85494251cf61",
+      "b0fcc15b6feefa9eba1c7bcbe7ff14425044b500e4aea6d459ab9bf01f42ea37",
+      "7b33aff598637f82cb8db463c394bba90865e315097cb2e8b91a7d0616b1b78d",
+      "b0fcc15b6feefa9eba1c7bcbe7ff14425044b500e4aea6d459ab9bf01f42ea37"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNWSE-00.png",
+        "frozen_sha256": "5dd7069e4c314a7e6d2d88d6d6da6a531c09ca0c497b006c54cabb05d85f4b4c",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "0c769103c62cf0e6f855346a5b7242f1a5d5d06fffd2d1e3dcef0a90f01c365c",
+        "symbol_rgba_sha256": "3cb967e967983a82a3316680573581afaa49bc0c38951f1edbd81393e8aa361a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 12,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNWSE-01.png",
+        "frozen_sha256": "724437c094861207111e82be530b18f34701b65910bbf56bec7e0805fdb02ef2",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "ba957ed11e1bbb1e845b9448789942ac96f3900004dcd55e6ec9d2c0f344cbe6",
+        "symbol_rgba_sha256": "3cb967e967983a82a3316680573581afaa49bc0c38951f1edbd81393e8aa361a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 14,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNWSE-02.png",
+        "frozen_sha256": "95833e3b45dc099ae3e58985e514e206803d47688cecbaf81e674f508620114b",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8cc4c2605c909279047594d7c5092b4f248e1e642030efef96b2c684db67d28b",
+        "symbol_rgba_sha256": "3cb967e967983a82a3316680573581afaa49bc0c38951f1edbd81393e8aa361a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 14,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNWSE-03.png",
+        "frozen_sha256": "724437c094861207111e82be530b18f34701b65910bbf56bec7e0805fdb02ef2",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "ba957ed11e1bbb1e845b9448789942ac96f3900004dcd55e6ec9d2c0f344cbe6",
+        "symbol_rgba_sha256": "3cb967e967983a82a3316680573581afaa49bc0c38951f1edbd81393e8aa361a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 14,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNWSE-04.png",
+        "frozen_sha256": "0551976ab2308bfc2e55a9183093565feca2297ddeefe557cabe85494251cf61",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "475467933f9ed64ca2f830cdf4164c18db344ea574bc0380062239d26a46cf39",
+        "symbol_rgba_sha256": "3cb967e967983a82a3316680573581afaa49bc0c38951f1edbd81393e8aa361a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 12,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNWSE-05.png",
+        "frozen_sha256": "b0fcc15b6feefa9eba1c7bcbe7ff14425044b500e4aea6d459ab9bf01f42ea37",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "4e14c595ed666b547c6e1a1318c2c3e6e2351b2f5155ef08edbc5361ad89c0df",
+        "symbol_rgba_sha256": "3cb967e967983a82a3316680573581afaa49bc0c38951f1edbd81393e8aa361a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 13,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNWSE-06.png",
+        "frozen_sha256": "7b33aff598637f82cb8db463c394bba90865e315097cb2e8b91a7d0616b1b78d",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "fd4b372c09702f8c93f4f665b338dc28b37f5b999cb37cfc318f9253a9106a88",
+        "symbol_rgba_sha256": "3cb967e967983a82a3316680573581afaa49bc0c38951f1edbd81393e8aa361a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 14,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNWSE-07.png",
+        "frozen_sha256": "b0fcc15b6feefa9eba1c7bcbe7ff14425044b500e4aea6d459ab9bf01f42ea37",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "4e14c595ed666b547c6e1a1318c2c3e6e2351b2f5155ef08edbc5361ad89c0df",
+        "symbol_rgba_sha256": "3cb967e967983a82a3316680573581afaa49bc0c38951f1edbd81393e8aa361a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 13,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      12,
+      12
+    ]
+  },
+  {
+    "role": "SizeNESW",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      4,
+      4
+    ],
+    "symbol_hotspot": [
+      5,
+      5
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      32,
+      32
+    ],
+    "body_directory": "kimi-original-32/SizeNESW",
+    "body_hashes": [
+      "4111d718d1ba1d040b38421ba6cdd6cff0a871c0767e278adf34f5de7595b62f",
+      "6020d306b5ffba59b8bef8ed82a2c5752dc54a9e0064b77b7f06a78d62628b32",
+      "3b0e1dd8949eff30ca2d2b89880af27a21fdceab9e514bcf09c8af48d39854d2",
+      "6020d306b5ffba59b8bef8ed82a2c5752dc54a9e0064b77b7f06a78d62628b32",
+      "5d8e909006424e57140e7ce5cfe4e6b501f05a6ab52952e9690619f59d7a666b",
+      "d95ae8a87b3896e2371b9a2bf05e2c66fb0997da20c2381bdf6a9d7c8b4e4a5f",
+      "9f5c4b3c0a1d8fc9ce265a0ca32fbf00f0e4fc5e78b3421252b45542b49ecb2c",
+      "d95ae8a87b3896e2371b9a2bf05e2c66fb0997da20c2381bdf6a9d7c8b4e4a5f"
+    ],
+    "character": "kimi",
+    "edition": "original",
+    "logical_size": 32,
+    "frozen_frame_sha256": [
+      "566c594cdff16679000574ee426c3e911ce61d2839a8870cd14ae830e1c15e24",
+      "e7a6070a099ca18f40207dc6106819820f448838566af18e87bfda369530dd6d",
+      "ccf601516e91c0dce3a9e797b88b1881464b0730225d0b5bbc60ccd71095f865",
+      "e7a6070a099ca18f40207dc6106819820f448838566af18e87bfda369530dd6d",
+      "dc08ea78ebe1ff4f8bef042b082e334e8d41c345157ff6d6c8dd7ee7e3c08c23",
+      "2b788123d1a53e6758c4a3463b6ea9802dde271bd7e4315763fafc0cdc874d61",
+      "f3d43b5d7e8203b459be04c1f6fecc7f1a52f37afc8c8401d818e4d83dce402a",
+      "2b788123d1a53e6758c4a3463b6ea9802dde271bd7e4315763fafc0cdc874d61"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNESW-00.png",
+        "frozen_sha256": "566c594cdff16679000574ee426c3e911ce61d2839a8870cd14ae830e1c15e24",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "4111d718d1ba1d040b38421ba6cdd6cff0a871c0767e278adf34f5de7595b62f",
+        "symbol_rgba_sha256": "59003112b88f61be545f31fdc199c1c0c4536cc2ae0b495e0530af554fe46ff1",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 12,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNESW-01.png",
+        "frozen_sha256": "e7a6070a099ca18f40207dc6106819820f448838566af18e87bfda369530dd6d",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "6020d306b5ffba59b8bef8ed82a2c5752dc54a9e0064b77b7f06a78d62628b32",
+        "symbol_rgba_sha256": "59003112b88f61be545f31fdc199c1c0c4536cc2ae0b495e0530af554fe46ff1",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 12,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNESW-02.png",
+        "frozen_sha256": "ccf601516e91c0dce3a9e797b88b1881464b0730225d0b5bbc60ccd71095f865",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "3b0e1dd8949eff30ca2d2b89880af27a21fdceab9e514bcf09c8af48d39854d2",
+        "symbol_rgba_sha256": "59003112b88f61be545f31fdc199c1c0c4536cc2ae0b495e0530af554fe46ff1",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 15,
+        "separate_layers_max_channel_delta": 127,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNESW-03.png",
+        "frozen_sha256": "e7a6070a099ca18f40207dc6106819820f448838566af18e87bfda369530dd6d",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "6020d306b5ffba59b8bef8ed82a2c5752dc54a9e0064b77b7f06a78d62628b32",
+        "symbol_rgba_sha256": "59003112b88f61be545f31fdc199c1c0c4536cc2ae0b495e0530af554fe46ff1",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 12,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNESW-04.png",
+        "frozen_sha256": "dc08ea78ebe1ff4f8bef042b082e334e8d41c345157ff6d6c8dd7ee7e3c08c23",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "5d8e909006424e57140e7ce5cfe4e6b501f05a6ab52952e9690619f59d7a666b",
+        "symbol_rgba_sha256": "59003112b88f61be545f31fdc199c1c0c4536cc2ae0b495e0530af554fe46ff1",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 12,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNESW-05.png",
+        "frozen_sha256": "2b788123d1a53e6758c4a3463b6ea9802dde271bd7e4315763fafc0cdc874d61",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "d95ae8a87b3896e2371b9a2bf05e2c66fb0997da20c2381bdf6a9d7c8b4e4a5f",
+        "symbol_rgba_sha256": "59003112b88f61be545f31fdc199c1c0c4536cc2ae0b495e0530af554fe46ff1",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 13,
+        "separate_layers_max_channel_delta": 128,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNESW-06.png",
+        "frozen_sha256": "f3d43b5d7e8203b459be04c1f6fecc7f1a52f37afc8c8401d818e4d83dce402a",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "9f5c4b3c0a1d8fc9ce265a0ca32fbf00f0e4fc5e78b3421252b45542b49ecb2c",
+        "symbol_rgba_sha256": "59003112b88f61be545f31fdc199c1c0c4536cc2ae0b495e0530af554fe46ff1",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 13,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeNESW-07.png",
+        "frozen_sha256": "2b788123d1a53e6758c4a3463b6ea9802dde271bd7e4315763fafc0cdc874d61",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "d95ae8a87b3896e2371b9a2bf05e2c66fb0997da20c2381bdf6a9d7c8b4e4a5f",
+        "symbol_rgba_sha256": "59003112b88f61be545f31fdc199c1c0c4536cc2ae0b495e0530af554fe46ff1",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 13,
+        "separate_layers_max_channel_delta": 128,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      12,
+      12
+    ]
+  },
+  {
+    "role": "SizeAll",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      4,
+      4
+    ],
+    "symbol_hotspot": [
+      5,
+      5
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      32,
+      32
+    ],
+    "body_directory": "kimi-original-32/SizeAll",
+    "body_hashes": [
+      "0c769103c62cf0e6f855346a5b7242f1a5d5d06fffd2d1e3dcef0a90f01c365c",
+      "ba957ed11e1bbb1e845b9448789942ac96f3900004dcd55e6ec9d2c0f344cbe6",
+      "8cc4c2605c909279047594d7c5092b4f248e1e642030efef96b2c684db67d28b",
+      "ba957ed11e1bbb1e845b9448789942ac96f3900004dcd55e6ec9d2c0f344cbe6",
+      "475467933f9ed64ca2f830cdf4164c18db344ea574bc0380062239d26a46cf39",
+      "4e14c595ed666b547c6e1a1318c2c3e6e2351b2f5155ef08edbc5361ad89c0df",
+      "fd4b372c09702f8c93f4f665b338dc28b37f5b999cb37cfc318f9253a9106a88",
+      "4e14c595ed666b547c6e1a1318c2c3e6e2351b2f5155ef08edbc5361ad89c0df"
+    ],
+    "character": "kimi",
+    "edition": "original",
+    "logical_size": 32,
+    "frozen_frame_sha256": [
+      "b7e99605f977c0caf872a504355a67428fdc4a5f83babcfe64e7f48d6f41992f",
+      "670ae015b74a661b0b89777cdb231e476136a0fc9d82518f2152a93cc7efb93b",
+      "df19decc38a6b9a13d8c30985d4f500f733dfa796e9811e517fda2a19af8060e",
+      "670ae015b74a661b0b89777cdb231e476136a0fc9d82518f2152a93cc7efb93b",
+      "8b149eb46f476ffb01694b96551712b347908c94bf038b9d232b2bc931578dba",
+      "ff9773922dce4453b20f2b2c62f3548d9f8c53c01d6e9c36c607235f0339b56f",
+      "dfa21574c3b2d1bde1552f60ea6c9d84d837d8abb57f2192d6d612be58b90d22",
+      "ff9773922dce4453b20f2b2c62f3548d9f8c53c01d6e9c36c607235f0339b56f"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeAll-00.png",
+        "frozen_sha256": "b7e99605f977c0caf872a504355a67428fdc4a5f83babcfe64e7f48d6f41992f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "0c769103c62cf0e6f855346a5b7242f1a5d5d06fffd2d1e3dcef0a90f01c365c",
+        "symbol_rgba_sha256": "85261cb9b0ba209b81a6d98f3ba797bc59640390e30c0d14820c912cedaa9fcc",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 4,
+        "separate_layers_max_channel_delta": 254,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeAll-01.png",
+        "frozen_sha256": "670ae015b74a661b0b89777cdb231e476136a0fc9d82518f2152a93cc7efb93b",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "ba957ed11e1bbb1e845b9448789942ac96f3900004dcd55e6ec9d2c0f344cbe6",
+        "symbol_rgba_sha256": "85261cb9b0ba209b81a6d98f3ba797bc59640390e30c0d14820c912cedaa9fcc",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 6,
+        "separate_layers_max_channel_delta": 254,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeAll-02.png",
+        "frozen_sha256": "df19decc38a6b9a13d8c30985d4f500f733dfa796e9811e517fda2a19af8060e",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8cc4c2605c909279047594d7c5092b4f248e1e642030efef96b2c684db67d28b",
+        "symbol_rgba_sha256": "85261cb9b0ba209b81a6d98f3ba797bc59640390e30c0d14820c912cedaa9fcc",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 8,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeAll-03.png",
+        "frozen_sha256": "670ae015b74a661b0b89777cdb231e476136a0fc9d82518f2152a93cc7efb93b",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "ba957ed11e1bbb1e845b9448789942ac96f3900004dcd55e6ec9d2c0f344cbe6",
+        "symbol_rgba_sha256": "85261cb9b0ba209b81a6d98f3ba797bc59640390e30c0d14820c912cedaa9fcc",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 6,
+        "separate_layers_max_channel_delta": 254,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeAll-04.png",
+        "frozen_sha256": "8b149eb46f476ffb01694b96551712b347908c94bf038b9d232b2bc931578dba",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "475467933f9ed64ca2f830cdf4164c18db344ea574bc0380062239d26a46cf39",
+        "symbol_rgba_sha256": "85261cb9b0ba209b81a6d98f3ba797bc59640390e30c0d14820c912cedaa9fcc",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 4,
+        "separate_layers_max_channel_delta": 254,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeAll-05.png",
+        "frozen_sha256": "ff9773922dce4453b20f2b2c62f3548d9f8c53c01d6e9c36c607235f0339b56f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "4e14c595ed666b547c6e1a1318c2c3e6e2351b2f5155ef08edbc5361ad89c0df",
+        "symbol_rgba_sha256": "85261cb9b0ba209b81a6d98f3ba797bc59640390e30c0d14820c912cedaa9fcc",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 8,
+        "separate_layers_max_channel_delta": 128,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeAll-06.png",
+        "frozen_sha256": "dfa21574c3b2d1bde1552f60ea6c9d84d837d8abb57f2192d6d612be58b90d22",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "fd4b372c09702f8c93f4f665b338dc28b37f5b999cb37cfc318f9253a9106a88",
+        "symbol_rgba_sha256": "85261cb9b0ba209b81a6d98f3ba797bc59640390e30c0d14820c912cedaa9fcc",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 7,
+        "separate_layers_max_channel_delta": 254,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\SizeAll-07.png",
+        "frozen_sha256": "ff9773922dce4453b20f2b2c62f3548d9f8c53c01d6e9c36c607235f0339b56f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "4e14c595ed666b547c6e1a1318c2c3e6e2351b2f5155ef08edbc5361ad89c0df",
+        "symbol_rgba_sha256": "85261cb9b0ba209b81a6d98f3ba797bc59640390e30c0d14820c912cedaa9fcc",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 8,
+        "separate_layers_max_channel_delta": 128,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      12,
+      12
+    ]
+  },
+  {
+    "role": "UpArrow",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      4,
+      0
+    ],
+    "symbol_hotspot": [
+      5,
+      1
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      32,
+      32
+    ],
+    "body_directory": "kimi-original-32/UpArrow",
+    "body_hashes": [
+      "999e37e18ae77b1a0d235cb3a280f00db6a6bf7689503fa1c9509a27612f7ac3",
+      "aeea9d5d765c0db99ef5dcbcc9064b3bd164fafbe72873eedb1bd288e921eaa1",
+      "b520d4a4577bb86bbe091d4e6d4136451d2165049501ddc55ca3c55d61a6fa54",
+      "86e88d02d962de052893bf4ba9db0a59edbaf2e78ad15ff3ff91909c6c723b5c",
+      "08d6ec554963c28cc59a021c8da96c71dde0434385aec1ab370fe031412bf959",
+      "08bd813c12259469204a3e3909bafad8a1c61d9c4480e7c0d876211eba9af7e8",
+      "39290c369010fc8df919024f035095aa04eb1d2e599d6bfc45ac13c62d9481d0",
+      "6f85bc20b9fad062fa752b9295e38d71cf987e455cedf666bbcd50c623172509"
+    ],
+    "character": "kimi",
+    "edition": "original",
+    "logical_size": 32,
+    "frozen_frame_sha256": [
+      "4898851f6281bb082ed4821ac3f3f4b746fdf5ae3c0e08665af8daa1b2b2e0d8",
+      "aec8fc6374d0e2fb2a7beea6f68b3ca863b8094326090621ffe3d7cce556ff2e",
+      "7bb205752983f2599be3e7c7d7199be408b32f9a8f29776900db95807a8d06b3",
+      "fe1357698b88e42eba00a1d9f40372d836933bdc83a6ec210411d550324c85b4",
+      "b8c88febd87bac9094c4ca99528e4bd99dca895d6b9c06d888e8a41a829d9bdf",
+      "63d3fe5cf6c9d16a47c2c7707722198c935bbc124beaa33b1f649eed0c06faeb",
+      "a2a228a8e51186739b6f33c4b4f0a9ccf0b322ab3650239b557f31bbb500eddf",
+      "d241b795b83c5be29a7f8056f2b971265b0fb7745ce15c534b365de822c51655"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\UpArrow-00.png",
+        "frozen_sha256": "4898851f6281bb082ed4821ac3f3f4b746fdf5ae3c0e08665af8daa1b2b2e0d8",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "999e37e18ae77b1a0d235cb3a280f00db6a6bf7689503fa1c9509a27612f7ac3",
+        "symbol_rgba_sha256": "660b55bc6d9455ba5fb63d9d5b8b6871358c1e462263788f38c9e1d2b665d424",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 1,
+        "separate_layers_max_channel_delta": 127,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\UpArrow-01.png",
+        "frozen_sha256": "aec8fc6374d0e2fb2a7beea6f68b3ca863b8094326090621ffe3d7cce556ff2e",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "aeea9d5d765c0db99ef5dcbcc9064b3bd164fafbe72873eedb1bd288e921eaa1",
+        "symbol_rgba_sha256": "660b55bc6d9455ba5fb63d9d5b8b6871358c1e462263788f38c9e1d2b665d424",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\UpArrow-02.png",
+        "frozen_sha256": "7bb205752983f2599be3e7c7d7199be408b32f9a8f29776900db95807a8d06b3",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "b520d4a4577bb86bbe091d4e6d4136451d2165049501ddc55ca3c55d61a6fa54",
+        "symbol_rgba_sha256": "660b55bc6d9455ba5fb63d9d5b8b6871358c1e462263788f38c9e1d2b665d424",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 1,
+        "separate_layers_max_channel_delta": 127,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\UpArrow-03.png",
+        "frozen_sha256": "fe1357698b88e42eba00a1d9f40372d836933bdc83a6ec210411d550324c85b4",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "86e88d02d962de052893bf4ba9db0a59edbaf2e78ad15ff3ff91909c6c723b5c",
+        "symbol_rgba_sha256": "660b55bc6d9455ba5fb63d9d5b8b6871358c1e462263788f38c9e1d2b665d424",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 3,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\UpArrow-04.png",
+        "frozen_sha256": "b8c88febd87bac9094c4ca99528e4bd99dca895d6b9c06d888e8a41a829d9bdf",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "08d6ec554963c28cc59a021c8da96c71dde0434385aec1ab370fe031412bf959",
+        "symbol_rgba_sha256": "660b55bc6d9455ba5fb63d9d5b8b6871358c1e462263788f38c9e1d2b665d424",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 2,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\UpArrow-05.png",
+        "frozen_sha256": "63d3fe5cf6c9d16a47c2c7707722198c935bbc124beaa33b1f649eed0c06faeb",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "08bd813c12259469204a3e3909bafad8a1c61d9c4480e7c0d876211eba9af7e8",
+        "symbol_rgba_sha256": "660b55bc6d9455ba5fb63d9d5b8b6871358c1e462263788f38c9e1d2b665d424",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 3,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\UpArrow-06.png",
+        "frozen_sha256": "a2a228a8e51186739b6f33c4b4f0a9ccf0b322ab3650239b557f31bbb500eddf",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "39290c369010fc8df919024f035095aa04eb1d2e599d6bfc45ac13c62d9481d0",
+        "symbol_rgba_sha256": "660b55bc6d9455ba5fb63d9d5b8b6871358c1e462263788f38c9e1d2b665d424",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\UpArrow-07.png",
+        "frozen_sha256": "d241b795b83c5be29a7f8056f2b971265b0fb7745ce15c534b365de822c51655",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "6f85bc20b9fad062fa752b9295e38d71cf987e455cedf666bbcd50c623172509",
+        "symbol_rgba_sha256": "660b55bc6d9455ba5fb63d9d5b8b6871358c1e462263788f38c9e1d2b665d424",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 1,
+        "separate_layers_max_channel_delta": 128,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      10,
+      12
+    ]
+  },
+  {
+    "role": "Hand",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      3,
+      0
+    ],
+    "symbol_hotspot": [
+      4,
+      1
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      32,
+      32
+    ],
+    "body_directory": "kimi-original-32/Hand",
+    "body_hashes": [
+      "d74d49a786709c103221ed1e480c9315902b3f85750016b9dabddb1843664d2c",
+      "15d6cd4c096b5fa375a0df864222fb8b0debab7c384bd0447d55e8f6354d6269",
+      "5dbc5a2271c29569bae485fd6afac6f5af5ad76f8ed4bfe5827e72b40435e26c",
+      "15d6cd4c096b5fa375a0df864222fb8b0debab7c384bd0447d55e8f6354d6269",
+      "1cff9724af0123e06732c57e1aa2bfbacaf599a6e84dd56c2f2726dd7b642016",
+      "a378f6003deb12af928a642fd38924ab0de2029547898fd74006c4eae2da0122",
+      "a6278477119bbb110f62db636d1e857324bfaec12afe75895dc9b007f14dc94d",
+      "a378f6003deb12af928a642fd38924ab0de2029547898fd74006c4eae2da0122"
+    ],
+    "character": "kimi",
+    "edition": "original",
+    "logical_size": 32,
+    "frozen_frame_sha256": [
+      "f01ab94afad067119a99968ed90c13d6f429cd3e7fad7e0be6830f2850d7b5fc",
+      "46748c43733f778f157547b0ebb95868c7da33f666870937d08d1068c4c5ad47",
+      "08a10c5cdf8d408583db520eb4136f6e0aca3a979e1a24a26bbd43fe0e0592d8",
+      "46748c43733f778f157547b0ebb95868c7da33f666870937d08d1068c4c5ad47",
+      "7a660e4c3cdba2d2a8475f9eb9cbf5b86911e77b8be1eb4da75d188182fa04d3",
+      "759badf19a6fada386f278cbd80ec59993cc4b314fb764c6bcd2019af5d1fd9c",
+      "6a782173f8faa2451613afefb951c7b462a33f595efc710c0a242d224961448a",
+      "759badf19a6fada386f278cbd80ec59993cc4b314fb764c6bcd2019af5d1fd9c"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Hand-00.png",
+        "frozen_sha256": "f01ab94afad067119a99968ed90c13d6f429cd3e7fad7e0be6830f2850d7b5fc",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "d74d49a786709c103221ed1e480c9315902b3f85750016b9dabddb1843664d2c",
+        "symbol_rgba_sha256": "a314eeda10316c67c69c0e2b41a0d30a14104896e36bf0f2a70343e74ce76207",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 13,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Hand-01.png",
+        "frozen_sha256": "46748c43733f778f157547b0ebb95868c7da33f666870937d08d1068c4c5ad47",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "15d6cd4c096b5fa375a0df864222fb8b0debab7c384bd0447d55e8f6354d6269",
+        "symbol_rgba_sha256": "a314eeda10316c67c69c0e2b41a0d30a14104896e36bf0f2a70343e74ce76207",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 14,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Hand-02.png",
+        "frozen_sha256": "08a10c5cdf8d408583db520eb4136f6e0aca3a979e1a24a26bbd43fe0e0592d8",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "5dbc5a2271c29569bae485fd6afac6f5af5ad76f8ed4bfe5827e72b40435e26c",
+        "symbol_rgba_sha256": "a314eeda10316c67c69c0e2b41a0d30a14104896e36bf0f2a70343e74ce76207",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 17,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Hand-03.png",
+        "frozen_sha256": "46748c43733f778f157547b0ebb95868c7da33f666870937d08d1068c4c5ad47",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "15d6cd4c096b5fa375a0df864222fb8b0debab7c384bd0447d55e8f6354d6269",
+        "symbol_rgba_sha256": "a314eeda10316c67c69c0e2b41a0d30a14104896e36bf0f2a70343e74ce76207",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 14,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Hand-04.png",
+        "frozen_sha256": "7a660e4c3cdba2d2a8475f9eb9cbf5b86911e77b8be1eb4da75d188182fa04d3",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "1cff9724af0123e06732c57e1aa2bfbacaf599a6e84dd56c2f2726dd7b642016",
+        "symbol_rgba_sha256": "a314eeda10316c67c69c0e2b41a0d30a14104896e36bf0f2a70343e74ce76207",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 13,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Hand-05.png",
+        "frozen_sha256": "759badf19a6fada386f278cbd80ec59993cc4b314fb764c6bcd2019af5d1fd9c",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "a378f6003deb12af928a642fd38924ab0de2029547898fd74006c4eae2da0122",
+        "symbol_rgba_sha256": "a314eeda10316c67c69c0e2b41a0d30a14104896e36bf0f2a70343e74ce76207",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 14,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Hand-06.png",
+        "frozen_sha256": "6a782173f8faa2451613afefb951c7b462a33f595efc710c0a242d224961448a",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "a6278477119bbb110f62db636d1e857324bfaec12afe75895dc9b007f14dc94d",
+        "symbol_rgba_sha256": "a314eeda10316c67c69c0e2b41a0d30a14104896e36bf0f2a70343e74ce76207",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 13,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Hand-07.png",
+        "frozen_sha256": "759badf19a6fada386f278cbd80ec59993cc4b314fb764c6bcd2019af5d1fd9c",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "a378f6003deb12af928a642fd38924ab0de2029547898fd74006c4eae2da0122",
+        "symbol_rgba_sha256": "a314eeda10316c67c69c0e2b41a0d30a14104896e36bf0f2a70343e74ce76207",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 14,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      11,
+      12
+    ]
+  },
+  {
+    "role": "Pin",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      3,
+      8
+    ],
+    "symbol_hotspot": [
+      4,
+      9
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      32,
+      32
+    ],
+    "body_directory": "kimi-original-32/Pin",
+    "body_hashes": [
+      "529cb7bcc4d651fe2c92d94eb6b9759e4f5c4f4a52aca4f0e3788c713b3b40c1",
+      "dba23fac0f7fc2f8a04aaaa62bbadce8d03914659b776b22e9decde31d560cda",
+      "8e896324a9452e86fab2a4a6996e7954ec660bbd73e26e3290910bfed9afd490",
+      "dba23fac0f7fc2f8a04aaaa62bbadce8d03914659b776b22e9decde31d560cda",
+      "2532d36606bd26ab88e538b1e99b6148cf55eb4d450ac355398229a85e068523",
+      "ac37413fc67d39522e3d68de3958825c6bdb79a5bac4d9ad1d14d553674341a2",
+      "3bd80cd60f93ad05eba79e3b8fd745b4b0f3cddce65b485fc9360442b4f0882c",
+      "ac37413fc67d39522e3d68de3958825c6bdb79a5bac4d9ad1d14d553674341a2"
+    ],
+    "character": "kimi",
+    "edition": "original",
+    "logical_size": 32,
+    "frozen_frame_sha256": [
+      "216bcc6e0cbc6247be1bfb5e26f8aa0ec25f8f46b8b46b7df16271785233da27",
+      "d1cdd8044efb35bb93098bb8234fe3afba69b0769fa79af5cf1c9192fae76912",
+      "24148191e24bfb6554a2ba34c0e94345c0233b9c76a2be4f07b0edd6d1b027c3",
+      "d1cdd8044efb35bb93098bb8234fe3afba69b0769fa79af5cf1c9192fae76912",
+      "b1ddecac7f2b8c59cb253c809edb0891ac35bb8c15e4e07cae10cb7d7976b123",
+      "ac11f08a3d9dbc8a09261537beb2572ef5f4ad44a095d980ca52c5e10635605b",
+      "68e193bcdf66343c45759c4ae165b62ed18c0456f590e6b632cc75e240a9e781",
+      "ac11f08a3d9dbc8a09261537beb2572ef5f4ad44a095d980ca52c5e10635605b"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Pin-00.png",
+        "frozen_sha256": "216bcc6e0cbc6247be1bfb5e26f8aa0ec25f8f46b8b46b7df16271785233da27",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "529cb7bcc4d651fe2c92d94eb6b9759e4f5c4f4a52aca4f0e3788c713b3b40c1",
+        "symbol_rgba_sha256": "636690d1969abf9ceaefe48d8a5148947ae8560bb69b82ee9f7d07f78db7addb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Pin-01.png",
+        "frozen_sha256": "d1cdd8044efb35bb93098bb8234fe3afba69b0769fa79af5cf1c9192fae76912",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "dba23fac0f7fc2f8a04aaaa62bbadce8d03914659b776b22e9decde31d560cda",
+        "symbol_rgba_sha256": "636690d1969abf9ceaefe48d8a5148947ae8560bb69b82ee9f7d07f78db7addb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 3,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Pin-02.png",
+        "frozen_sha256": "24148191e24bfb6554a2ba34c0e94345c0233b9c76a2be4f07b0edd6d1b027c3",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8e896324a9452e86fab2a4a6996e7954ec660bbd73e26e3290910bfed9afd490",
+        "symbol_rgba_sha256": "636690d1969abf9ceaefe48d8a5148947ae8560bb69b82ee9f7d07f78db7addb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 4,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Pin-03.png",
+        "frozen_sha256": "d1cdd8044efb35bb93098bb8234fe3afba69b0769fa79af5cf1c9192fae76912",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "dba23fac0f7fc2f8a04aaaa62bbadce8d03914659b776b22e9decde31d560cda",
+        "symbol_rgba_sha256": "636690d1969abf9ceaefe48d8a5148947ae8560bb69b82ee9f7d07f78db7addb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 3,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Pin-04.png",
+        "frozen_sha256": "b1ddecac7f2b8c59cb253c809edb0891ac35bb8c15e4e07cae10cb7d7976b123",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "2532d36606bd26ab88e538b1e99b6148cf55eb4d450ac355398229a85e068523",
+        "symbol_rgba_sha256": "636690d1969abf9ceaefe48d8a5148947ae8560bb69b82ee9f7d07f78db7addb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Pin-05.png",
+        "frozen_sha256": "ac11f08a3d9dbc8a09261537beb2572ef5f4ad44a095d980ca52c5e10635605b",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "ac37413fc67d39522e3d68de3958825c6bdb79a5bac4d9ad1d14d553674341a2",
+        "symbol_rgba_sha256": "636690d1969abf9ceaefe48d8a5148947ae8560bb69b82ee9f7d07f78db7addb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Pin-06.png",
+        "frozen_sha256": "68e193bcdf66343c45759c4ae165b62ed18c0456f590e6b632cc75e240a9e781",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "3bd80cd60f93ad05eba79e3b8fd745b4b0f3cddce65b485fc9360442b4f0882c",
+        "symbol_rgba_sha256": "636690d1969abf9ceaefe48d8a5148947ae8560bb69b82ee9f7d07f78db7addb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 3,
+        "separate_layers_max_channel_delta": 85,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Pin-07.png",
+        "frozen_sha256": "ac11f08a3d9dbc8a09261537beb2572ef5f4ad44a095d980ca52c5e10635605b",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "ac37413fc67d39522e3d68de3958825c6bdb79a5bac4d9ad1d14d553674341a2",
+        "symbol_rgba_sha256": "636690d1969abf9ceaefe48d8a5148947ae8560bb69b82ee9f7d07f78db7addb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      10,
+      12
+    ]
+  },
+  {
+    "role": "Person",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      4,
+      2
+    ],
+    "symbol_hotspot": [
+      5,
+      3
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      32,
+      32
+    ],
+    "body_directory": "kimi-original-32/Person",
+    "body_hashes": [
+      "d74d49a786709c103221ed1e480c9315902b3f85750016b9dabddb1843664d2c",
+      "15d6cd4c096b5fa375a0df864222fb8b0debab7c384bd0447d55e8f6354d6269",
+      "5dbc5a2271c29569bae485fd6afac6f5af5ad76f8ed4bfe5827e72b40435e26c",
+      "15d6cd4c096b5fa375a0df864222fb8b0debab7c384bd0447d55e8f6354d6269",
+      "1cff9724af0123e06732c57e1aa2bfbacaf599a6e84dd56c2f2726dd7b642016",
+      "a378f6003deb12af928a642fd38924ab0de2029547898fd74006c4eae2da0122",
+      "a6278477119bbb110f62db636d1e857324bfaec12afe75895dc9b007f14dc94d",
+      "a378f6003deb12af928a642fd38924ab0de2029547898fd74006c4eae2da0122"
+    ],
+    "character": "kimi",
+    "edition": "original",
+    "logical_size": 32,
+    "frozen_frame_sha256": [
+      "e4daabde296821d4cf076a78bd4c3c5e9fd7a3f1816ad6d997612ca19d4c7f30",
+      "a82276e7a88b6f48fca9f0fd9eea4649f45f17767cd724fa10550cbc2107f98f",
+      "293dafdcc855853be6fe9c7f2c6cd1bc4d4da5d42d7b57822fc3e1ce8ec77ce1",
+      "a82276e7a88b6f48fca9f0fd9eea4649f45f17767cd724fa10550cbc2107f98f",
+      "5be380558a92f703fc6b95ee67ebdceffb2610853e08a8c69c4b4d030e9738f4",
+      "aa74030686b34b2a4f33b32c8f65a2d737133842c8781a05de77f88156953d57",
+      "8fde7e1bca13e03921dcb7770ed5b254724bdb3a43e561c6c730d0af59b77bdd",
+      "aa74030686b34b2a4f33b32c8f65a2d737133842c8781a05de77f88156953d57"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Person-00.png",
+        "frozen_sha256": "e4daabde296821d4cf076a78bd4c3c5e9fd7a3f1816ad6d997612ca19d4c7f30",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "d74d49a786709c103221ed1e480c9315902b3f85750016b9dabddb1843664d2c",
+        "symbol_rgba_sha256": "169705cc4d0ba0b1efe05194ac25f50f1f1166e35585983d14aeef340d963ae7",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 11,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Person-01.png",
+        "frozen_sha256": "a82276e7a88b6f48fca9f0fd9eea4649f45f17767cd724fa10550cbc2107f98f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "15d6cd4c096b5fa375a0df864222fb8b0debab7c384bd0447d55e8f6354d6269",
+        "symbol_rgba_sha256": "169705cc4d0ba0b1efe05194ac25f50f1f1166e35585983d14aeef340d963ae7",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 12,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Person-02.png",
+        "frozen_sha256": "293dafdcc855853be6fe9c7f2c6cd1bc4d4da5d42d7b57822fc3e1ce8ec77ce1",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "5dbc5a2271c29569bae485fd6afac6f5af5ad76f8ed4bfe5827e72b40435e26c",
+        "symbol_rgba_sha256": "169705cc4d0ba0b1efe05194ac25f50f1f1166e35585983d14aeef340d963ae7",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 13,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Person-03.png",
+        "frozen_sha256": "a82276e7a88b6f48fca9f0fd9eea4649f45f17767cd724fa10550cbc2107f98f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "15d6cd4c096b5fa375a0df864222fb8b0debab7c384bd0447d55e8f6354d6269",
+        "symbol_rgba_sha256": "169705cc4d0ba0b1efe05194ac25f50f1f1166e35585983d14aeef340d963ae7",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 12,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Person-04.png",
+        "frozen_sha256": "5be380558a92f703fc6b95ee67ebdceffb2610853e08a8c69c4b4d030e9738f4",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "1cff9724af0123e06732c57e1aa2bfbacaf599a6e84dd56c2f2726dd7b642016",
+        "symbol_rgba_sha256": "169705cc4d0ba0b1efe05194ac25f50f1f1166e35585983d14aeef340d963ae7",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 11,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Person-05.png",
+        "frozen_sha256": "aa74030686b34b2a4f33b32c8f65a2d737133842c8781a05de77f88156953d57",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "a378f6003deb12af928a642fd38924ab0de2029547898fd74006c4eae2da0122",
+        "symbol_rgba_sha256": "169705cc4d0ba0b1efe05194ac25f50f1f1166e35585983d14aeef340d963ae7",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 10,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Person-06.png",
+        "frozen_sha256": "8fde7e1bca13e03921dcb7770ed5b254724bdb3a43e561c6c730d0af59b77bdd",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "a6278477119bbb110f62db636d1e857324bfaec12afe75895dc9b007f14dc94d",
+        "symbol_rgba_sha256": "169705cc4d0ba0b1efe05194ac25f50f1f1166e35585983d14aeef340d963ae7",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 8,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\kimi-cursors\\source\\frames\\kimi\\32\\Person-07.png",
+        "frozen_sha256": "aa74030686b34b2a4f33b32c8f65a2d737133842c8781a05de77f88156953d57",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "a378f6003deb12af928a642fd38924ab0de2029547898fd74006c4eae2da0122",
+        "symbol_rgba_sha256": "169705cc4d0ba0b1efe05194ac25f50f1f1166e35585983d14aeef340d963ae7",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 10,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      11,
+      12
+    ]
+  }
+]

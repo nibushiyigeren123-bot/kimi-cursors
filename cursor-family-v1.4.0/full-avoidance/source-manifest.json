@@ -1,0 +1,43 @@
+{
+  "version": "v1.4.0",
+  "repository": "kimi-cursors",
+  "copied_member_sha256": {
+    "ControlNative.cs": "4e4c6d8a60175340e0b56490d75a8b445a0594a6227f7602dd1bebd6d9d19701",
+    "VALIDATION.md": "95f05bd4982c9293728ee1447c63c4a783632827f79f985e549ab0632970173f",
+    "control.ps1": "53dd0be1faf0e7f1a9a46017d701cfaaea6f38ebd1c734f238938218eee15449",
+    "payload-hashes.json": "9f1805d22f01ee5871cd5efd13e7148c71a4cc2be1db34bd0c9079cc9aaff9b0",
+    "publication-equivalence.json": "df077e5b94f6684d78098008c542063becebb799ea4a6bc5448a89a42347c4f8",
+    "rebuild.ps1": "04000ed0b9f6cdf2063c0508129f2a41c26f735ee267440c5de6e80245aeb56b",
+    "runtime/assets/kimi-original-128/manifest.json": "6dd194881c7e41bd9e41bd4341d6645ff933dfc9d4ede461e394b74ba11c0d36",
+    "runtime/assets/kimi-original-256/manifest.json": "d859c0235f3c5cb0835247d4bc158a8539a0551e06422062c08366ba930cfb55",
+    "runtime/assets/kimi-original-32/manifest.json": "13c8a4b24c14b4f6412d6bc56325d366f6d026185474cbbe32fa3da770e7888c",
+    "runtime/assets/kimi-original-48/manifest.json": "b24be290604454fe2bb26bf52c0dc85c0b46b19308493185e5385fc921952249",
+    "runtime/assets/kimi-original-64/manifest.json": "c1129438cf824bdea236960a83bb995300e05e9d0ed56bdb9f3239cb089a8584",
+    "runtime/assets/kimi-original-96/manifest.json": "0c8ee65ead20ffe46c1d6d3ceec6f494f6fe0918b4b2aace0f89f8fef5b0ce7a",
+    "runtime/assets/kimi-plus-128/manifest.json": "d9b0b62891055dc19d5dc065e9daf59fdcc09827287ae162c3687ec825943518",
+    "runtime/assets/kimi-plus-256/manifest.json": "09b3639dd9c3a2717bb1c5cebd6f0c1341fd52b5b1588aadfca2999f11c4c77e",
+    "runtime/assets/kimi-plus-32/manifest.json": "40a85185099eae5f491e0f42902fc5c2697070b7f61e6de9f772da72ad47b59c",
+    "runtime/assets/kimi-plus-48/manifest.json": "b3565eb09a7df9c0f0b4e30657b577910f74b099e7e1ff9ba29c09f70aa167c3",
+    "runtime/assets/kimi-plus-64/manifest.json": "5d08ace960bb20e25fd989b801e800ebe5f3fb79620cfe7eb91524ada2bc1afb",
+    "runtime/assets/kimi-plus-72/manifest.json": "13f7fd1cde3be3e36192b8cfba4bac9bf729c54baf6cf07118e3a9e3133e7e80",
+    "runtime/assets/kimi-plus-96/manifest.json": "174d112f7ccb4a8286cd5547810a51ca9891a34773f739cf6185c1f455a2de5b",
+    "runtime/avoidance-settings.json": "3744c26b9cb2c1e41440e48514702f3c0b692da2d37fd1a7e34dd7bbc1e2d113",
+    "runtime/characters.json": "27eb6afa56aa3ee3db233c2758431e9637fb658944a8ad22b2eddc92e96c2917",
+    "source/Avatar.cs": "886d7bea0ff9a1f8e2299ce48533249e299da8d9794ebd6e422b264728a30b8d",
+    "source/AvatarHost.cs": "65facb0698690f7dd3c3566e13fac2a304a5a272488f074904caf6823b3b6fff",
+    "source/CharacterFrames.cs": "7d2bda24ba278a1f2ff6228a99b95dafb4e057789844ee63f6537ad3c2f4377f",
+    "source/DisplayRefresh.cs": "5b8cb544f3b8471759f8607f7c188ae1f66b1bdcc83b53995005a36d2ebc4233",
+    "source/IdleFade.cs": "ca590912c6d10f6e2b4bec6d30a3184305e1e569cf3fc759a4c7a50be3e8b063",
+    "source/NativeCursor.cs": "868201109c6440f385f977d9cdc3c8a7f6135eae804d079691928a77431251c0",
+    "source/PopupCache.cs": "3759907bb353870c7985a843bdeb5c7051cb5fae97b2b798006b78447f26f5ae",
+    "source/Program.cs": "80bd868f86b0b2f3c32e00b036ac34af6fa7363dc03d54f566fa7b3786ec2efe",
+    "source/Win.cs": "f3ed471c2560fd3195f12112795d29eb6ab08778fd08967d708e91cfad4959bf",
+    "技术说明.md": "6ffb1ef9060a0067d3a20fefe9e1a1ce2dbfea46ba2f7ab01456270b939c8668"
+  },
+  "fullZip": {
+    "name": "kimi-cursors-full-avoidance-v1.4.0.zip",
+    "bytes": 44206231,
+    "sha256": "cd45c16097678c41635b1b7164ffe565fd1f3b79989bb3854530d932784a61a4"
+  },
+  "selfContainedInstallation": false
+}

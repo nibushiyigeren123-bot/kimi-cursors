@@ -1,0 +1,30 @@
+{
+  "version": "v1.4.0",
+  "kind": "full-avoidance",
+  "runtimeSha256": "0e7a173da8c96ac7e1d21386966e90095b0083e2959c9eba4436406a5a20ff23",
+  "assets": [
+    {
+      "name": "kimi-cursors-full-avoidance-v1.4.0.zip",
+      "bytes": 44206231,
+      "sha256": "cd45c16097678c41635b1b7164ffe565fd1f3b79989bb3854530d932784a61a4"
+    },
+    {
+      "name": "kimi-cursors-full-avoidance-source-v1.4.0.zip",
+      "bytes": 281302,
+      "sha256": "6791fa310d6574badcaad103b5dff912bd15a4d2cdf64248e6f748b567f9ce54"
+    },
+    {
+      "name": "VALIDATION.md",
+      "bytes": 2599,
+      "sha256": "95f05bd4982c9293728ee1447c63c4a783632827f79f985e549ab0632970173f"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 219,
+      "sha256": "d61aa9c81fbb0ed0673238c5164506fde3e80359a885af984e008fdc8ab3aa94"
+    }
+  ],
+  "originalCmdInvocationPreserved": true,
+  "cmdWaitingMessageAdded": 13,
+  "originalMediaUnchanged": true
+}
